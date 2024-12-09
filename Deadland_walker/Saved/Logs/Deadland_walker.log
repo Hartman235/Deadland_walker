@@ -4314,3 +4314,918 @@ Make sure '/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mu
 [2024.12.09-15.26.40:190][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint_Auto4
 [2024.12.09-15.26.40:190][603]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BP_Zombie_Mutant_Blueprint_Auto40008D9F64A3A0227CF0278B482334EC5.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint_Auto4.uasset'
 [2024.12.09-15.26.40:191][603]LogFileHelpers: Auto-saving content packages took 0.064
+[2024.12.09-15.46.11:056][773]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.09-15.46.11:056][773]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.09-15.46.29:855][891]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.12.09-15.46.29:855][891]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.12.09-15.47.48:260][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.09-15.47.48:270][504]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2024.12.09-15.47.48:271][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint] ([2] browsable assets)...
+[2024.12.09-15.47.48:378][504]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint]
+[2024.12.09-15.47.48:378][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint]
+[2024.12.09-15.47.48:388][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint_Auto5
+[2024.12.09-15.47.48:388][504]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BP_Zombie_Mutant_Blueprint_Auto56F9FF10D45C1EC4BC7ABBCA69D6BBDF3.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint_Auto5.uasset'
+[2024.12.09-15.47.48:388][504]LogFileHelpers: Auto-saving content packages took 0.117
+[2024.12.09-15.48.28:542][626]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.09-15.48.28:542][626]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.09-15.48.46:193][ 97]LogDerivedDataCache: C:/Users/Тимур/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.09-15.49.16:721][951]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.12.09-15.49.16:721][951]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.12.09-15.50.07:938][412]LogBlueprint: Error: [AssetLog] D:\Work\Epic Games\UE_projects\Deadland_walker\Deadland_walker\Content\Zombie_Mutant\blueprint\BP_Zombie_Mutant_Blueprint.uasset: [Compiler] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2024.12.09-15.50.07:944][412]LogBlueprint: Error: [AssetLog] D:\Work\Epic Games\UE_projects\Deadland_walker\Deadland_walker\Content\Zombie_Mutant\blueprint\BP_Zombie_Mutant_Blueprint.uasset: [Compiler] Variable node  Set MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.12.09-15.50.08:065][412]LogScript: Warning: Attempted to access REINST_BP_Zombie_Mutant_Blueprint_C_0 via property CallFunc_TryGetPawnOwner_ReturnValue, but REINST_BP_Zombie_Mutant_Blueprint_C_0 is not valid (pending kill or garbage)
+	ABP_Zombie_C /Engine/Transient.World_12:PersistentLevel.REINST_BP_Zombie_Mutant_Blueprint_C_0.CharacterMesh0.ABP_Zombie_C_1
+	Function /Game/Zombie_Mutant/demo/animations/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0097
+[2024.12.09-15.50.08:089][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.12.09-15.50.43:780][954]LogBlueprint: Error: [AssetLog] D:\Work\Epic Games\UE_projects\Deadland_walker\Deadland_walker\Content\Zombie_Mutant\blueprint\BP_Zombie_Mutant_Blueprint.uasset: [Compiler] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2024.12.09-15.50.43:783][954]LogBlueprint: Error: [AssetLog] D:\Work\Epic Games\UE_projects\Deadland_walker\Deadland_walker\Content\Zombie_Mutant\blueprint\BP_Zombie_Mutant_Blueprint.uasset: [Compiler] Variable node  Set MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.12.09-15.50.43:915][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.12.09-15.51.34:789][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.12.09-15.51.34:849][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-15.51.34:905][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint] ([2] browsable assets)...
+[2024.12.09-15.51.34:981][683]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint]
+[2024.12.09-15.51.34:981][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint]
+[2024.12.09-15.51.34:992][683]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint
+[2024.12.09-15.51.34:992][683]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BP_Zombie_Mutant_Blueprint82AE8E6D4680F1ACB12C39BEBF9726EC.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.uasset'
+[2024.12.09-15.51.35:057][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.216 ms (total: 7.65 sec)
+[2024.12.09-15.51.35:133][683]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-15.51.35:133][683]LogContentValidation: Enabled validators:
+[2024.12.09-15.51.35:133][683]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-15.51.35:133][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-15.51.35:133][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-15.51.35:133][683]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint
+[2024.12.09-15.51.35:133][683]AssetCheck: /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint Validating asset
+[2024.12.09-15.52.23:271][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.12.09-15.52.23:312][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-15.52.23:368][950]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint] ([2] browsable assets)...
+[2024.12.09-15.52.23:422][950]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint]
+[2024.12.09-15.52.23:422][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint]
+[2024.12.09-15.52.23:432][950]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint
+[2024.12.09-15.52.23:432][950]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BP_Zombie_Mutant_Blueprint5EAB262448AC92086D21B69F896EBDC0.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.uasset'
+[2024.12.09-15.52.23:466][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.146 ms (total: 7.80 sec)
+[2024.12.09-15.52.23:522][950]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-15.52.23:522][950]LogContentValidation: Enabled validators:
+[2024.12.09-15.52.23:522][950]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-15.52.23:522][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-15.52.23:522][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-15.52.23:522][950]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint
+[2024.12.09-15.52.23:522][950]AssetCheck: /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint Validating asset
+[2024.12.09-15.52.26:443][973]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-15.52.26:519][973]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-15.52.26:519][973]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.09-15.52.26:521][973]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.332 ms (total: 66.462 ms)
+[2024.12.09-15.52.26:599][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-15.52.26:600][973]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.09-15.52.26:605][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005962s)
+[2024.12.09-15.52.26:605][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006079s)
+[2024.12.09-15.52.26:629][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.12.09-15.52.26:637][973]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-15.52.26:638][973]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.09-15.52.26:638][973]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-15.52.26:638][973]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-15.52.26:638][973]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-15.52.26:638][973]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-15.52.26:640][973]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.09-15.52.26:640][973]LogWorldPartition: Display: WorldPartition initialize took 1.674 ms (total: 291.233 ms)
+[2024.12.09-15.52.26:640][973]LogPlayLevel: PIE: World Init took: (0.003559s)
+[2024.12.09-15.52.27:182][973]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.12.09-15.52.27:182][973]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-15.52.27:182][973]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-15.52.27:182][973]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-15.52.27:182][973]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-15.52.27:182][973]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-15.52.27:182][973]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-15.52.27:182][973]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-15.52.27:182][973]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-15.52.27:182][973]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-15.52.27:182][973]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-15.52.27:182][973]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-15.52.27:192][973]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-15.52.27:229][973]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.09-15.52.27:229][973]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-15.52.27:229][973]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-15.52.27:229][973]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-15.52.27:231][973]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.12.09-15.52.27:231][973]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.12.09-15.52.27:233][973]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.12.09-15.52.27:233][973]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.12.09-15.52.27:233][973]LogInit: FAudioDevice initialized with ID 12.
+[2024.12.09-15.52.27:233][973]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2024.12.09-15.52.27:233][973]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.09-15.52.27:240][973]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.09-15.52.27:243][973]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.09-18.52.27
+[2024.12.09-15.52.27:244][973]LogWorld: Bringing up level for play took: 0.003864
+[2024.12.09-15.52.27:247][973]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2024.12.09-15.52.27:814][973]PIE: Server logged in
+[2024.12.09-15.52.27:816][973]PIE: Play in editor total start time 1.357 seconds.
+[2024.12.09-15.52.39:361][ 98]LogChaos: Warning: Degenerate triangle 787: (-0.704857 0.068652 0.344605) (-0.636396 0.000000 0.263604) (-0.707051 0.000000 0.343153)
+[2024.12.09-15.52.39:361][ 98]LogChaos: Warning: Degenerate triangle 787: (-0.704857 0.068652 0.344605) (-0.636396 0.000000 0.263604) (-0.707051 0.000000 0.343153)
+[2024.12.09-15.52.39:361][ 98]LogChaos: Warning: Degenerate triangle 791: (-0.555395 0.068652 0.195143) (-0.636396 0.000000 0.263604) (-0.634737 0.064952 0.265263)
+[2024.12.09-15.52.39:362][ 98]LogChaos: Warning: Degenerate triangle 93: (-0.636396 0.000000 0.263604) (-0.634737 -0.064952 0.265263) (-0.707051 0.000000 0.343153)
+[2024.12.09-15.52.39:362][ 98]LogChaos: Warning: Degenerate triangle 93: (-0.636396 0.000000 0.263604) (-0.634737 -0.064952 0.265263) (-0.707051 0.000000 0.343153)
+[2024.12.09-15.52.39:362][ 98]LogChaos: Warning: Degenerate triangle 791: (-0.555395 0.068652 0.195143) (-0.636396 0.000000 0.263604) (-0.634737 0.064952 0.265263)
+[2024.12.09-15.52.40:218][110]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.40:218][110]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.40:218][110]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.40:218][110]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.40:218][110]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.40:218][110]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.40:592][115]LogChaos: Warning: Degenerate triangle 833: (0.000000 0.000000 0.000000) (-0.079550 0.000000 0.003523) (0.000000 0.079550 0.003523)
+[2024.12.09-15.52.40:592][115]LogChaos: Warning: Degenerate triangle 833: (0.000000 0.000000 0.000000) (-0.079550 0.000000 0.003523) (0.000000 0.079550 0.003523)
+[2024.12.09-15.52.40:592][115]LogChaos: Warning: Degenerate triangle 832: (-0.079342 0.079342 0.007022) (-0.159099 0.000000 0.014174) (-0.158684 0.078717 0.017604)
+[2024.12.09-15.52.40:592][115]LogChaos: Warning: Degenerate triangle 833: (0.000000 0.000000 0.000000) (-0.079550 0.000000 0.003523) (0.000000 0.079550 0.003523)
+[2024.12.09-15.52.40:592][115]LogChaos: Warning: Degenerate triangle 833: (0.000000 0.000000 0.000000) (-0.079550 0.000000 0.003523) (0.000000 0.079550 0.003523)
+[2024.12.09-15.52.40:592][115]LogChaos: Warning: Degenerate triangle 832: (-0.079342 0.079342 0.007022) (-0.159099 0.000000 0.014174) (-0.158684 0.078717 0.017604)
+[2024.12.09-15.52.40:661][116]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.40:661][116]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.40:661][116]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.40:661][116]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.40:661][116]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.40:661][116]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.41:127][122]LogChaos: Warning: Degenerate triangle 2348: (0.079550 0.000000 0.003523) (0.000000 0.000000 0.000000) (0.079342 0.079342 0.007022)
+[2024.12.09-15.52.41:127][122]LogChaos: Warning: Degenerate triangle 2348: (0.079550 0.000000 0.003523) (0.000000 0.000000 0.000000) (0.079342 0.079342 0.007022)
+[2024.12.09-15.52.41:127][122]LogChaos: Warning: Degenerate triangle 833: (0.000000 0.000000 0.000000) (-0.079550 0.000000 0.003523) (0.000000 0.079550 0.003523)
+[2024.12.09-15.52.41:127][122]LogChaos: Warning: Degenerate triangle 1597: (0.159099 0.000000 0.014174) (0.079342 -0.079342 0.007022) (0.079550 0.000000 0.003523)
+[2024.12.09-15.52.41:127][122]LogChaos: Warning: Degenerate triangle 1597: (0.159099 0.000000 0.014174) (0.079342 -0.079342 0.007022) (0.079550 0.000000 0.003523)
+[2024.12.09-15.52.41:127][122]LogChaos: Warning: Degenerate triangle 833: (0.000000 0.000000 0.000000) (-0.079550 0.000000 0.003523) (0.000000 0.079550 0.003523)
+[2024.12.09-15.52.41:194][123]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.41:195][123]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.41:195][123]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.41:195][123]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.41:195][123]LogChaos: Warning: Degenerate triangle 3036: (0.389711 0.573640 1.473640) (0.343261 0.649976 1.419330) (0.324760 0.593520 1.493520)
+[2024.12.09-15.52.41:195][123]LogChaos: Warning: Degenerate triangle 3036: (0.389711 0.573640 1.473640) (0.343261 0.649976 1.419330) (0.324760 0.593520 1.493520)
+[2024.12.09-15.52.42:456][140]LogChaos: Warning: Degenerate triangle 143: (-0.318198 0.000000 0.058127) (-0.396710 -0.074190 0.095564) (-0.397748 0.000000 0.092661)
+[2024.12.09-15.52.42:456][140]LogChaos: Warning: Degenerate triangle 143: (-0.318198 0.000000 0.058127) (-0.396710 -0.074190 0.095564) (-0.397748 0.000000 0.092661)
+[2024.12.09-15.52.42:456][140]LogChaos: Warning: Degenerate triangle 845: (-0.158684 0.078717 0.017604) (-0.238649 0.000000 0.032217) (-0.238026 0.077663 0.035528)
+[2024.12.09-15.52.42:457][140]LogChaos: Warning: Degenerate triangle 844: (-0.238026 0.077663 0.035528) (-0.318198 0.000000 0.058127) (-0.317368 0.076163 0.061265)
+[2024.12.09-15.52.42:457][140]LogChaos: Warning: Degenerate triangle 844: (-0.238026 0.077663 0.035528) (-0.318198 0.000000 0.058127) (-0.317368 0.076163 0.061265)
+[2024.12.09-15.52.42:457][140]LogChaos: Warning: Degenerate triangle 845: (-0.158684 0.078717 0.017604) (-0.238649 0.000000 0.032217) (-0.238026 0.077663 0.035528)
+[2024.12.09-15.52.42:527][141]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.42:527][141]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.42:527][141]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.42:527][141]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.42:527][141]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.42:527][141]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.42:916][146]LogChaos: Warning: Degenerate triangle 1801: (0.704857 -0.068652 0.344605) (0.634737 -0.064952 0.265263) (0.707051 0.000000 0.343153)
+[2024.12.09-15.52.42:916][146]LogChaos: Warning: Degenerate triangle 1801: (0.704857 -0.068652 0.344605) (0.634737 -0.064952 0.265263) (0.707051 0.000000 0.343153)
+[2024.12.09-15.52.42:916][146]LogChaos: Warning: Degenerate triangle 1802: (0.704857 -0.068652 0.344605) (0.629732 -0.129904 0.270268) (0.634737 -0.064952 0.265263)
+[2024.12.09-15.52.43:552][154]LogChaos: Warning: Degenerate triangle 907: (-0.760416 0.071705 0.423947) (-0.763012 0.000000 0.422703) (-0.804436 0.074190 0.503290)
+[2024.12.09-15.52.43:552][154]LogChaos: Warning: Degenerate triangle 907: (-0.760416 0.071705 0.423947) (-0.763012 0.000000 0.422703) (-0.804436 0.074190 0.503290)
+[2024.12.09-15.52.43:552][154]LogChaos: Warning: Degenerate triangle 906: (-0.760416 0.071705 0.423947) (-0.707051 0.000000 0.343153) (-0.763012 0.000000 0.422703)
+[2024.12.09-15.52.43:553][154]LogChaos: Warning: Degenerate triangle 909: (-0.804436 0.074190 0.503290) (-0.763012 0.000000 0.422703) (-0.807339 0.000000 0.502252)
+[2024.12.09-15.52.43:553][154]LogChaos: Warning: Degenerate triangle 909: (-0.804436 0.074190 0.503290) (-0.763012 0.000000 0.422703) (-0.807339 0.000000 0.502252)
+[2024.12.09-15.52.43:553][154]LogChaos: Warning: Degenerate triangle 906: (-0.760416 0.071705 0.423947) (-0.707051 0.000000 0.343153) (-0.763012 0.000000 0.422703)
+[2024.12.09-15.52.44:140][162]LogChaos: Warning: Degenerate triangle 162: (-0.159099 0.000000 0.014174) (-0.238026 -0.077663 0.035528) (-0.238649 0.000000 0.032217)
+[2024.12.09-15.52.44:140][162]LogChaos: Warning: Degenerate triangle 162: (-0.159099 0.000000 0.014174) (-0.238026 -0.077663 0.035528) (-0.238649 0.000000 0.032217)
+[2024.12.09-15.52.44:140][162]LogChaos: Warning: Degenerate triangle 845: (-0.158684 0.078717 0.017604) (-0.238649 0.000000 0.032217) (-0.238026 0.077663 0.035528)
+[2024.12.09-15.52.44:140][162]LogChaos: Warning: Degenerate triangle 145: (-0.238649 0.000000 0.032217) (-0.317368 -0.076163 0.061265) (-0.318198 0.000000 0.058127)
+[2024.12.09-15.52.44:140][162]LogChaos: Warning: Degenerate triangle 145: (-0.238649 0.000000 0.032217) (-0.317368 -0.076163 0.061265) (-0.318198 0.000000 0.058127)
+[2024.12.09-15.52.44:140][162]LogChaos: Warning: Degenerate triangle 845: (-0.158684 0.078717 0.017604) (-0.238649 0.000000 0.032217) (-0.238026 0.077663 0.035528)
+[2024.12.09-15.52.44:141][162]LogChaos: Warning: Degenerate triangle 847: (-0.159099 0.000000 0.014174) (-0.238649 0.000000 0.032217) (-0.158684 0.078717 0.017604)
+[2024.12.09-15.52.44:141][162]LogChaos: Warning: Degenerate triangle 847: (-0.159099 0.000000 0.014174) (-0.238649 0.000000 0.032217) (-0.158684 0.078717 0.017604)
+[2024.12.09-15.52.44:141][162]LogChaos: Warning: Degenerate triangle 845: (-0.158684 0.078717 0.017604) (-0.238649 0.000000 0.032217) (-0.238026 0.077663 0.035528)
+[2024.12.09-15.52.44:141][162]LogChaos: Warning: Degenerate triangle 147: (-0.238026 -0.077663 0.035528) (-0.317368 -0.076163 0.061265) (-0.238649 0.000000 0.032217)
+[2024.12.09-15.52.44:141][162]LogChaos: Warning: Degenerate triangle 147: (-0.238026 -0.077663 0.035528) (-0.317368 -0.076163 0.061265) (-0.238649 0.000000 0.032217)
+[2024.12.09-15.52.44:141][162]LogChaos: Warning: Degenerate triangle 845: (-0.158684 0.078717 0.017604) (-0.238649 0.000000 0.032217) (-0.238026 0.077663 0.035528)
+[2024.12.09-15.52.44:214][163]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.44:214][163]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.44:214][163]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.44:214][163]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.44:215][163]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.44:215][163]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.44:215][163]LogChaos: Warning: Degenerate triangle 2970: (0.064952 0.634737 1.534737) (0.000000 0.707051 1.456846) (0.000000 0.636396 1.536396)
+[2024.12.09-15.52.44:215][163]LogChaos: Warning: Degenerate triangle 2970: (0.064952 0.634737 1.534737) (0.000000 0.707051 1.456846) (0.000000 0.636396 1.536396)
+[2024.12.09-15.52.44:215][163]LogChaos: Warning: Degenerate triangle 2967: (0.137305 0.698233 1.451015) (0.068652 0.704857 1.455395) (0.129904 0.629732 1.529732)
+[2024.12.09-15.52.44:215][163]LogChaos: Warning: Degenerate triangle 2967: (0.137305 0.698233 1.451015) (0.068652 0.704857 1.455395) (0.129904 0.629732 1.529732)
+[2024.12.09-15.52.44:215][163]LogChaos: Warning: Degenerate triangle 2967: (0.137305 0.698233 1.451015) (0.068652 0.704857 1.455395) (0.129904 0.629732 1.529732)
+[2024.12.09-15.52.44:215][163]LogChaos: Warning: Degenerate triangle 2967: (0.137305 0.698233 1.451015) (0.068652 0.704857 1.455395) (0.129904 0.629732 1.529732)
+[2024.12.09-15.52.44:215][163]LogChaos: Warning: Degenerate triangle 2968: (0.129904 0.629732 1.529732) (0.068652 0.704857 1.455395) (0.064952 0.634737 1.534737)
+[2024.12.09-15.52.44:215][163]LogChaos: Warning: Degenerate triangle 2968: (0.129904 0.629732 1.529732) (0.068652 0.704857 1.455395) (0.064952 0.634737 1.534737)
+[2024.12.09-15.52.45:336][176]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.45:336][176]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.45:336][176]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.45:336][176]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3027: (0.519615 0.519615 1.419615) (0.590011 0.480566 1.380566) (0.549218 0.549218 1.354663)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3027: (0.519615 0.519615 1.419615) (0.590011 0.480566 1.380566) (0.549218 0.549218 1.354663)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3027: (0.519615 0.519615 1.419615) (0.590011 0.480566 1.380566) (0.549218 0.549218 1.354663)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3027: (0.519615 0.519615 1.419615) (0.590011 0.480566 1.380566) (0.549218 0.549218 1.354663)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3027: (0.519615 0.519615 1.419615) (0.590011 0.480566 1.380566) (0.549218 0.549218 1.354663)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3027: (0.519615 0.519615 1.419615) (0.590011 0.480566 1.380566) (0.549218 0.549218 1.354663)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3031: (0.480566 0.590011 1.380566) (0.430230 0.663178 1.330230) (0.411914 0.623208 1.401935)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3031: (0.480566 0.590011 1.380566) (0.430230 0.663178 1.330230) (0.411914 0.623208 1.401935)
+[2024.12.09-15.52.45:337][176]LogCharacterMovement: BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2403702_2023272839 is stuck and failed to move! Velocity: X=353.41 Y=353.69 Z=0.00 Location: X=2180.62 Y=1340.09 Z=90.21 Normal: X=-0.51 Y=-0.86 Z=-0.00 PenetrationDepth:0.523 Actor:BP_Bullet_C_10 Component:Bullet_Mesh BoneName:None (0 other events since notify)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3031: (0.480566 0.590011 1.380566) (0.430230 0.663178 1.330230) (0.411914 0.623208 1.401935)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3031: (0.480566 0.590011 1.380566) (0.430230 0.663178 1.330230) (0.411914 0.623208 1.401935)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3031: (0.480566 0.590011 1.380566) (0.430230 0.663178 1.330230) (0.411914 0.623208 1.401935)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3031: (0.480566 0.590011 1.380566) (0.430230 0.663178 1.330230) (0.411914 0.623208 1.401935)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3031: (0.480566 0.590011 1.380566) (0.430230 0.663178 1.330230) (0.411914 0.623208 1.401935)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3031: (0.480566 0.590011 1.380566) (0.430230 0.663178 1.330230) (0.411914 0.623208 1.401935)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3060: (0.533140 0.671082 1.174609) (0.456977 0.720351 1.186820) (0.519330 0.649976 1.243261)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3060: (0.533140 0.671082 1.174609) (0.456977 0.720351 1.186820) (0.519330 0.649976 1.243261)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3060: (0.533140 0.671082 1.174609) (0.456977 0.720351 1.186820) (0.519330 0.649976 1.243261)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3060: (0.533140 0.671082 1.174609) (0.456977 0.720351 1.186820) (0.519330 0.649976 1.243261)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3060: (0.533140 0.671082 1.174609) (0.456977 0.720351 1.186820) (0.519330 0.649976 1.243261)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3060: (0.533140 0.671082 1.174609) (0.456977 0.720351 1.186820) (0.519330 0.649976 1.243261)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3065: (0.456977 0.720351 1.186820) (0.380814 0.759549 1.196760) (0.445140 0.695205 1.258525)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3065: (0.456977 0.720351 1.186820) (0.380814 0.759549 1.196760) (0.445140 0.695205 1.258525)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3014: (0.698233 0.551016 1.037305) (0.704857 0.555395 0.968652) (0.629732 0.629732 1.029904)
+[2024.12.09-15.52.45:337][176]LogChaos: Warning: Degenerate triangle 3014: (0.698233 0.551016 1.037305) (0.704857 0.555395 0.968652) (0.629732 0.629732 1.029904)
+[2024.12.09-15.52.46:805][195]LogChaos: Warning: Degenerate triangle 1196: (-0.896477 0.079550 0.900000) (-0.900000 0.000000 0.900000) (-0.892978 0.079342 0.979342)
+[2024.12.09-15.52.46:805][195]LogChaos: Warning: Degenerate triangle 1196: (-0.896477 0.079550 0.900000) (-0.900000 0.000000 0.900000) (-0.892978 0.079342 0.979342)
+[2024.12.09-15.52.46:805][195]LogChaos: Warning: Degenerate triangle 938: (-0.892978 0.079342 0.820658) (-0.885826 0.000000 0.740901) (-0.896477 0.000000 0.820450)
+[2024.12.09-15.52.46:805][195]LogChaos: Warning: Degenerate triangle 935: (-0.892978 0.079342 0.820658) (-0.896477 0.000000 0.820450) (-0.896477 0.079550 0.900000)
+[2024.12.09-15.52.46:805][195]LogChaos: Warning: Degenerate triangle 935: (-0.892978 0.079342 0.820658) (-0.896477 0.000000 0.820450) (-0.896477 0.079550 0.900000)
+[2024.12.09-15.52.46:805][195]LogChaos: Warning: Degenerate triangle 938: (-0.892978 0.079342 0.820658) (-0.885826 0.000000 0.740901) (-0.896477 0.000000 0.820450)
+[2024.12.09-15.52.48:025][210]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.48:025][210]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.48:025][210]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.48:025][210]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.48:025][210]LogChaos: Warning: Degenerate triangle 3028: (0.549218 0.549218 1.354663) (0.480566 0.590011 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.48:025][210]LogChaos: Warning: Degenerate triangle 3028: (0.549218 0.549218 1.354663) (0.480566 0.590011 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.48:025][210]LogChaos: Warning: Degenerate triangle 3028: (0.549218 0.549218 1.354663) (0.480566 0.590011 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.48:025][210]LogChaos: Warning: Degenerate triangle 3028: (0.549218 0.549218 1.354663) (0.480566 0.590011 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.48:025][210]LogChaos: Warning: Degenerate triangle 3028: (0.549218 0.549218 1.354663) (0.480566 0.590011 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.48:025][210]LogChaos: Warning: Degenerate triangle 3028: (0.549218 0.549218 1.354663) (0.480566 0.590011 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.52.48:025][210]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.48:025][210]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.48:025][210]LogCharacterMovement: BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2403702_2023272839 is stuck and failed to move! Velocity: X=-487.21 Y=112.37 Z=0.00 Location: X=2320.47 Y=2351.61 Z=89.95 Normal: X=0.51 Y=0.85 Z=-0.09 PenetrationDepth:0.215 Actor:BP_Bullet_C_13 Component:Bullet_Mesh BoneName:None (1 other events since notify)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3034: (0.411914 0.623208 1.401935) (0.343261 0.649976 1.419330) (0.389711 0.573640 1.473640)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3034: (0.411914 0.623208 1.401935) (0.343261 0.649976 1.419330) (0.389711 0.573640 1.473640)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3030: (0.480566 0.590011 1.380566) (0.411914 0.623208 1.401935) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3030: (0.480566 0.590011 1.380566) (0.411914 0.623208 1.401935) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3030: (0.480566 0.590011 1.380566) (0.411914 0.623208 1.401935) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3030: (0.480566 0.590011 1.380566) (0.411914 0.623208 1.401935) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3030: (0.480566 0.590011 1.380566) (0.411914 0.623208 1.401935) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3030: (0.480566 0.590011 1.380566) (0.411914 0.623208 1.401935) (0.454663 0.549218 1.449218)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3032: (0.454663 0.549218 1.449218) (0.411914 0.623208 1.401935) (0.389711 0.573640 1.473640)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3032: (0.454663 0.549218 1.449218) (0.411914 0.623208 1.401935) (0.389711 0.573640 1.473640)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3032: (0.454663 0.549218 1.449218) (0.411914 0.623208 1.401935) (0.389711 0.573640 1.473640)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3032: (0.454663 0.549218 1.449218) (0.411914 0.623208 1.401935) (0.389711 0.573640 1.473640)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3032: (0.454663 0.549218 1.449218) (0.411914 0.623208 1.401935) (0.389711 0.573640 1.473640)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3032: (0.454663 0.549218 1.449218) (0.411914 0.623208 1.401935) (0.389711 0.573640 1.473640)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3034: (0.411914 0.623208 1.401935) (0.343261 0.649976 1.419330) (0.389711 0.573640 1.473640)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 3034: (0.411914 0.623208 1.401935) (0.343261 0.649976 1.419330) (0.389711 0.573640 1.473640)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 2824: (0.000000 0.318198 1.741873) (0.000000 0.238649 1.767783) (0.076163 0.317368 1.738735)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 2824: (0.000000 0.318198 1.741873) (0.000000 0.238649 1.767783) (0.076163 0.317368 1.738735)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 2816: (0.000000 0.477297 1.663012) (0.000000 0.397748 1.707339) (0.071705 0.476052 1.660416)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 2816: (0.000000 0.477297 1.663012) (0.000000 0.397748 1.707339) (0.071705 0.476052 1.660416)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 2816: (0.000000 0.477297 1.663012) (0.000000 0.397748 1.707339) (0.071705 0.476052 1.660416)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 2816: (0.000000 0.477297 1.663012) (0.000000 0.397748 1.707339) (0.071705 0.476052 1.660416)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 2821: (0.000000 0.397748 1.707339) (0.000000 0.318198 1.741873) (0.074190 0.396710 1.704436)
+[2024.12.09-15.52.48:026][210]LogChaos: Warning: Degenerate triangle 2821: (0.000000 0.397748 1.707339) (0.000000 0.318198 1.741873) (0.074190 0.396710 1.704436)
+[2024.12.09-15.52.48:654][218]LogChaos: Warning: Degenerate triangle 2479: (0.590011 0.480566 0.419434) (0.573640 0.389711 0.326360) (0.549218 0.454663 0.350782)
+[2024.12.09-15.52.48:654][218]LogChaos: Warning: Degenerate triangle 2479: (0.590011 0.480566 0.419434) (0.573640 0.389711 0.326360) (0.549218 0.454663 0.350782)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2479: (0.590011 0.480566 0.419434) (0.573640 0.389711 0.326360) (0.549218 0.454663 0.350782)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2479: (0.590011 0.480566 0.419434) (0.573640 0.389711 0.326360) (0.549218 0.454663 0.350782)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2481: (0.623208 0.411914 0.398065) (0.593520 0.324760 0.306480) (0.573640 0.389711 0.326360)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2481: (0.623208 0.411914 0.398065) (0.593520 0.324760 0.306480) (0.573640 0.389711 0.326360)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2481: (0.623208 0.411914 0.398065) (0.593520 0.324760 0.306480) (0.573640 0.389711 0.326360)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2481: (0.623208 0.411914 0.398065) (0.593520 0.324760 0.306480) (0.573640 0.389711 0.326360)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2481: (0.623208 0.411914 0.398065) (0.593520 0.324760 0.306480) (0.573640 0.389711 0.326360)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2481: (0.623208 0.411914 0.398065) (0.593520 0.324760 0.306480) (0.573640 0.389711 0.326360)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2488: (0.573640 0.389711 0.326360) (0.519330 0.343261 0.250024) (0.501935 0.411914 0.276792)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2488: (0.573640 0.389711 0.326360) (0.519330 0.343261 0.250024) (0.501935 0.411914 0.276792)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2395: (0.629732 0.129904 0.270268) (0.555395 0.068652 0.195143) (0.551016 0.137305 0.201767)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2395: (0.629732 0.129904 0.270268) (0.555395 0.068652 0.195143) (0.551016 0.137305 0.201767)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2395: (0.629732 0.129904 0.270268) (0.555395 0.068652 0.195143) (0.551016 0.137305 0.201767)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2395: (0.629732 0.129904 0.270268) (0.555395 0.068652 0.195143) (0.551016 0.137305 0.201767)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2395: (0.629732 0.129904 0.270268) (0.555395 0.068652 0.195143) (0.551016 0.137305 0.201767)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2395: (0.629732 0.129904 0.270268) (0.555395 0.068652 0.195143) (0.551016 0.137305 0.201767)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2368: (0.555395 0.068652 0.195143) (0.477297 0.000000 0.136988) (0.476052 0.071705 0.139584)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2368: (0.555395 0.068652 0.195143) (0.477297 0.000000 0.136988) (0.476052 0.071705 0.139584)
+[2024.12.09-15.52.48:655][218]LogChaos: Warning: Degenerate triangle 2304: (0.397748 0.000000 0.092661) (0.318198 0.000000 0.058127) (0.396710 0.074190 0.095564)
+[2024.12.09-15.52.48:656][218]LogChaos: Warning: Degenerate triangle 1806: (0.556847 0.000000 0.192948) (0.476052 -0.071705 0.139584) (0.477297 0.000000 0.136988)
+[2024.12.09-15.52.48:656][218]LogChaos: Warning: Degenerate triangle 1806: (0.556847 0.000000 0.192948) (0.476052 -0.071705 0.139584) (0.477297 0.000000 0.136988)
+[2024.12.09-15.52.48:656][218]LogChaos: Warning: Degenerate triangle 2304: (0.397748 0.000000 0.092661) (0.318198 0.000000 0.058127) (0.396710 0.074190 0.095564)
+[2024.12.09-15.52.49:260][225]LogChaos: Warning: Degenerate triangle 2369: (0.556847 0.000000 0.192948) (0.477297 0.000000 0.136988) (0.555395 0.068652 0.195143)
+[2024.12.09-15.52.49:260][225]LogChaos: Warning: Degenerate triangle 2369: (0.556847 0.000000 0.192948) (0.477297 0.000000 0.136988) (0.555395 0.068652 0.195143)
+[2024.12.09-15.52.49:260][225]LogChaos: Warning: Degenerate triangle 2370: (0.477297 0.000000 0.136988) (0.397748 0.000000 0.092661) (0.476052 0.071705 0.139584)
+[2024.12.09-15.52.49:260][225]LogChaos: Warning: Degenerate triangle 1806: (0.556847 0.000000 0.192948) (0.476052 -0.071705 0.139584) (0.477297 0.000000 0.136988)
+[2024.12.09-15.52.49:260][225]LogChaos: Warning: Degenerate triangle 1806: (0.556847 0.000000 0.192948) (0.476052 -0.071705 0.139584) (0.477297 0.000000 0.136988)
+[2024.12.09-15.52.49:260][225]LogChaos: Warning: Degenerate triangle 2370: (0.477297 0.000000 0.136988) (0.397748 0.000000 0.092661) (0.476052 0.071705 0.139584)
+[2024.12.09-15.52.49:724][231]LogChaos: Warning: Degenerate triangle 2369: (0.556847 0.000000 0.192948) (0.477297 0.000000 0.136988) (0.555395 0.068652 0.195143)
+[2024.12.09-15.52.49:724][231]LogChaos: Warning: Degenerate triangle 2369: (0.556847 0.000000 0.192948) (0.477297 0.000000 0.136988) (0.555395 0.068652 0.195143)
+[2024.12.09-15.52.49:724][231]LogChaos: Warning: Degenerate triangle 2370: (0.477297 0.000000 0.136988) (0.397748 0.000000 0.092661) (0.476052 0.071705 0.139584)
+[2024.12.09-15.52.49:725][231]LogChaos: Warning: Degenerate triangle 1806: (0.556847 0.000000 0.192948) (0.476052 -0.071705 0.139584) (0.477297 0.000000 0.136988)
+[2024.12.09-15.52.49:725][231]LogChaos: Warning: Degenerate triangle 1806: (0.556847 0.000000 0.192948) (0.476052 -0.071705 0.139584) (0.477297 0.000000 0.136988)
+[2024.12.09-15.52.49:725][231]LogChaos: Warning: Degenerate triangle 2370: (0.477297 0.000000 0.136988) (0.397748 0.000000 0.092661) (0.476052 0.071705 0.139584)
+[2024.12.09-15.52.54:801][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-15.52.54:801][300]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.09-15.52.54:801][300]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-15.52.54:802][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-15.52.54:802][300]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.09-15.52.54:802][300]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.09-15.52.54:802][300]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-15.52.54:802][300]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-15.52.54:893][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-15.52.54:907][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-15.52.54:938][300]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-15.52.54:938][300]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.09-15.52.54:938][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.09-15.52.54:942][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.09-15.52.54:965][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-15.52.54:969][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.12.09-15.52.55:782][301]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2024.12.09-15.54.12:902][724]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Components/Health_component.Health_component
+[2024.12.09-15.54.12:903][724]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_56'.
+[2024.12.09-15.54.50:316][231]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.09-15.54.50:317][231]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_57'.
+[2024.12.09-15.56.05:242][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.12.09-15.56.05:344][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-15.56.05:387][ 97]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.09-15.56.05:387][ 97]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_58'.
+[2024.12.09-15.56.05:448][ 97]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.12.09-15.56.05:475][ 97]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.09-15.56.05:476][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.09-15.56.05:520][ 97]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.09-15.56.05:521][ 97]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BP_ThirdPersonCharacter2AEF5D274FC25D147FD0EE951388D192.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.09-15.56.05:572][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.032 ms (total: 8.03 sec)
+[2024.12.09-15.56.05:718][ 97]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-15.56.05:718][ 97]LogContentValidation: Enabled validators:
+[2024.12.09-15.56.05:718][ 97]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-15.56.05:718][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-15.56.05:718][ 97]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-15.56.05:718][ 97]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.09-15.56.05:719][ 97]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.09-15.56.13:333][163]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-15.56.13:400][163]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-15.56.13:400][163]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.09-15.56.13:402][163]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.389 ms (total: 68.851 ms)
+[2024.12.09-15.56.13:435][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-15.56.13:435][163]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.09-15.56.13:438][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003760s)
+[2024.12.09-15.56.13:438][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003816s)
+[2024.12.09-15.56.13:463][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.12.09-15.56.13:472][163]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-15.56.13:473][163]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.09-15.56.13:473][163]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-15.56.13:473][163]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-15.56.13:473][163]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-15.56.13:473][163]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-15.56.13:475][163]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.09-15.56.13:475][163]LogWorldPartition: Display: WorldPartition initialize took 1.615 ms (total: 292.849 ms)
+[2024.12.09-15.56.13:475][163]LogPlayLevel: PIE: World Init took: (0.002921s)
+[2024.12.09-15.56.13:971][163]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.12.09-15.56.13:971][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-15.56.13:971][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-15.56.13:971][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-15.56.13:971][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-15.56.13:971][163]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-15.56.13:971][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-15.56.13:971][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-15.56.13:971][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-15.56.13:971][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-15.56.13:971][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-15.56.13:971][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-15.56.13:973][163]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-15.56.14:013][163]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.09-15.56.14:013][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-15.56.14:013][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-15.56.14:013][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-15.56.14:015][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.12.09-15.56.14:015][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.12.09-15.56.14:016][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.12.09-15.56.14:016][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.12.09-15.56.14:016][163]LogInit: FAudioDevice initialized with ID 13.
+[2024.12.09-15.56.14:016][163]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2024.12.09-15.56.14:017][163]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.12.09-15.56.14:019][163]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.09-15.56.14:022][163]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.09-18.56.14
+[2024.12.09-15.56.14:023][163]LogWorld: Bringing up level for play took: 0.003659
+[2024.12.09-15.56.14:047][163]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.12.09-15.56.14:643][163]PIE: Server logged in
+[2024.12.09-15.56.14:644][163]PIE: Play in editor total start time 1.298 seconds.
+[2024.12.09-15.56.32:300][405]LogChaos: Warning: Degenerate triangle 906: (-0.760416 0.071705 0.423947) (-0.707051 0.000000 0.343153) (-0.763012 0.000000 0.422703)
+[2024.12.09-15.56.32:300][405]LogChaos: Warning: Degenerate triangle 906: (-0.760416 0.071705 0.423947) (-0.707051 0.000000 0.343153) (-0.763012 0.000000 0.422703)
+[2024.12.09-15.56.32:300][405]LogChaos: Warning: Degenerate triangle 787: (-0.704857 0.068652 0.344605) (-0.636396 0.000000 0.263604) (-0.707051 0.000000 0.343153)
+[2024.12.09-15.56.32:301][405]LogChaos: Warning: Degenerate triangle 908: (-0.795661 0.148380 0.506417) (-0.760416 0.071705 0.423947) (-0.804436 0.074190 0.503290)
+[2024.12.09-15.56.32:301][405]LogChaos: Warning: Degenerate triangle 908: (-0.795661 0.148380 0.506417) (-0.760416 0.071705 0.423947) (-0.804436 0.074190 0.503290)
+[2024.12.09-15.56.32:301][405]LogChaos: Warning: Degenerate triangle 787: (-0.704857 0.068652 0.344605) (-0.636396 0.000000 0.263604) (-0.707051 0.000000 0.343153)
+[2024.12.09-15.56.36:320][460]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.36:320][460]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.36:320][460]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.36:320][460]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.36:320][460]LogChaos: Warning: Degenerate triangle 3060: (0.533140 0.671082 1.174609) (0.456977 0.720351 1.186820) (0.519330 0.649976 1.243261)
+[2024.12.09-15.56.36:320][460]LogChaos: Warning: Degenerate triangle 3060: (0.533140 0.671082 1.174609) (0.456977 0.720351 1.186820) (0.519330 0.649976 1.243261)
+[2024.12.09-15.56.36:320][460]LogChaos: Warning: Degenerate triangle 3060: (0.533140 0.671082 1.174609) (0.456977 0.720351 1.186820) (0.519330 0.649976 1.243261)
+[2024.12.09-15.56.36:320][460]LogChaos: Warning: Degenerate triangle 3060: (0.533140 0.671082 1.174609) (0.456977 0.720351 1.186820) (0.519330 0.649976 1.243261)
+[2024.12.09-15.56.36:320][460]LogChaos: Warning: Degenerate triangle 3060: (0.533140 0.671082 1.174609) (0.456977 0.720351 1.186820) (0.519330 0.649976 1.243261)
+[2024.12.09-15.56.36:320][460]LogChaos: Warning: Degenerate triangle 3060: (0.533140 0.671082 1.174609) (0.456977 0.720351 1.186820) (0.519330 0.649976 1.243261)
+[2024.12.09-15.56.36:320][460]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-15.56.36:320][460]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-15.56.36:320][460]LogCharacterMovement: BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2403702_2023272839 is stuck and failed to move! Velocity: X=0.13 Y=-500.00 Z=0.00 Location: X=805.59 Y=1561.89 Z=90.21 Normal: X=0.60 Y=0.80 Z=0.00 PenetrationDepth:0.412 Actor:BP_Bullet_C_13 Component:Bullet_Mesh BoneName:None (0 other events since notify)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3053: (0.649976 0.519330 1.243261) (0.671082 0.533140 1.174609) (0.593520 0.593520 1.224759)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3053: (0.649976 0.519330 1.243261) (0.671082 0.533140 1.174609) (0.593520 0.593520 1.224759)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3053: (0.649976 0.519330 1.243261) (0.671082 0.533140 1.174609) (0.593520 0.593520 1.224759)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3053: (0.649976 0.519330 1.243261) (0.671082 0.533140 1.174609) (0.593520 0.593520 1.224759)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3053: (0.649976 0.519330 1.243261) (0.671082 0.533140 1.174609) (0.593520 0.593520 1.224759)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3053: (0.649976 0.519330 1.243261) (0.671082 0.533140 1.174609) (0.593520 0.593520 1.224759)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3055: (0.695205 0.445140 1.258525) (0.720351 0.456977 1.186820) (0.649976 0.519330 1.243261)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3055: (0.695205 0.445140 1.258525) (0.720351 0.456977 1.186820) (0.649976 0.519330 1.243261)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3055: (0.695205 0.445140 1.258525) (0.720351 0.456977 1.186820) (0.649976 0.519330 1.243261)
+[2024.12.09-15.56.36:321][460]LogChaos: Warning: Degenerate triangle 3055: (0.695205 0.445140 1.258525) (0.720351 0.456977 1.186820) (0.649976 0.519330 1.243261)
+[2024.12.09-15.56.37:228][472]LogChaos: Warning: Degenerate triangle 2370: (0.477297 0.000000 0.136988) (0.397748 0.000000 0.092661) (0.476052 0.071705 0.139584)
+[2024.12.09-15.56.37:228][472]LogChaos: Warning: Degenerate triangle 2370: (0.477297 0.000000 0.136988) (0.397748 0.000000 0.092661) (0.476052 0.071705 0.139584)
+[2024.12.09-15.56.37:228][472]LogChaos: Warning: Degenerate triangle 1625: (0.396710 -0.074190 0.095564) (0.317368 -0.076163 0.061265) (0.397748 0.000000 0.092661)
+[2024.12.09-15.56.37:228][472]LogChaos: Warning: Degenerate triangle 1616: (0.476052 -0.071705 0.139584) (0.396710 -0.074190 0.095564) (0.477297 0.000000 0.136988)
+[2024.12.09-15.56.37:228][472]LogChaos: Warning: Degenerate triangle 1616: (0.476052 -0.071705 0.139584) (0.396710 -0.074190 0.095564) (0.477297 0.000000 0.136988)
+[2024.12.09-15.56.37:228][472]LogChaos: Warning: Degenerate triangle 1625: (0.396710 -0.074190 0.095564) (0.317368 -0.076163 0.061265) (0.397748 0.000000 0.092661)
+[2024.12.09-15.56.37:954][482]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.37:954][482]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.37:954][482]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.37:954][482]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.37:954][482]LogChaos: Warning: Degenerate triangle 2876: (0.501935 0.411914 1.523208) (0.445140 0.358525 1.595205) (0.519330 0.343261 1.549976)
+[2024.12.09-15.56.37:954][482]LogChaos: Warning: Degenerate triangle 2876: (0.501935 0.411914 1.523208) (0.445140 0.358525 1.595205) (0.519330 0.343261 1.549976)
+[2024.12.09-15.56.41:676][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:676][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:676][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:676][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:676][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:676][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:676][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:676][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:676][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:676][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.41:678][534]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.43:326][556]LogChaos: Warning: Degenerate triangle 1627: (0.397748 0.000000 0.092661) (0.317368 -0.076163 0.061265) (0.318198 0.000000 0.058127)
+[2024.12.09-15.56.43:327][556]LogChaos: Warning: Degenerate triangle 1627: (0.397748 0.000000 0.092661) (0.317368 -0.076163 0.061265) (0.318198 0.000000 0.058127)
+[2024.12.09-15.56.43:327][556]LogChaos: Warning: Degenerate triangle 1595: (0.238026 -0.077663 0.035528) (0.158684 -0.078717 0.017604) (0.238649 0.000000 0.032217)
+[2024.12.09-15.56.43:327][556]LogChaos: Warning: Degenerate triangle 2305: (0.396710 0.074190 0.095564) (0.318198 0.000000 0.058127) (0.317368 0.076163 0.061265)
+[2024.12.09-15.56.43:327][556]LogChaos: Warning: Degenerate triangle 2305: (0.396710 0.074190 0.095564) (0.318198 0.000000 0.058127) (0.317368 0.076163 0.061265)
+[2024.12.09-15.56.43:327][556]LogChaos: Warning: Degenerate triangle 1595: (0.238026 -0.077663 0.035528) (0.158684 -0.078717 0.017604) (0.238649 0.000000 0.032217)
+[2024.12.09-15.56.43:396][557]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.43:396][557]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.43:396][557]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.43:396][557]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.43:396][557]LogChaos: Warning: Degenerate triangle 3040: (0.343261 0.519330 1.549976) (0.358525 0.445140 1.595205) (0.411914 0.501935 1.523208)
+[2024.12.09-15.56.43:396][557]LogChaos: Warning: Degenerate triangle 3040: (0.343261 0.519330 1.549976) (0.358525 0.445140 1.595205) (0.411914 0.501935 1.523208)
+[2024.12.09-15.56.46:439][599]LogChaos: Warning: Degenerate triangle 2348: (0.079550 0.000000 0.003523) (0.000000 0.000000 0.000000) (0.079342 0.079342 0.007022)
+[2024.12.09-15.56.46:439][599]LogChaos: Warning: Degenerate triangle 2348: (0.079550 0.000000 0.003523) (0.000000 0.000000 0.000000) (0.079342 0.079342 0.007022)
+[2024.12.09-15.56.46:439][599]LogChaos: Warning: Degenerate triangle 173: (-0.079550 0.000000 0.003523) (-0.158684 -0.078717 0.017604) (-0.159099 0.000000 0.014174)
+[2024.12.09-15.56.46:439][599]LogChaos: Warning: Degenerate triangle 833: (0.000000 0.000000 0.000000) (-0.079550 0.000000 0.003523) (0.000000 0.079550 0.003523)
+[2024.12.09-15.56.46:439][599]LogChaos: Warning: Degenerate triangle 833: (0.000000 0.000000 0.000000) (-0.079550 0.000000 0.003523) (0.000000 0.079550 0.003523)
+[2024.12.09-15.56.46:439][599]LogChaos: Warning: Degenerate triangle 173: (-0.079550 0.000000 0.003523) (-0.158684 -0.078717 0.017604) (-0.159099 0.000000 0.014174)
+[2024.12.09-15.56.47:087][608]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.47:087][608]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.47:087][608]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.47:088][608]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-15.56.47:088][608]LogChaos: Warning: Degenerate triangle 3047: (0.590011 0.480566 1.380566) (0.663178 0.430230 1.330230) (0.623208 0.501935 1.311914)
+[2024.12.09-15.56.47:088][608]LogChaos: Warning: Degenerate triangle 3047: (0.590011 0.480566 1.380566) (0.663178 0.430230 1.330230) (0.623208 0.501935 1.311914)
+[2024.12.09-15.56.49:125][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-15.56.49:125][636]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.09-15.56.49:126][636]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-15.56.49:126][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-15.56.49:126][636]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.09-15.56.49:127][636]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.09-15.56.49:127][636]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-15.56.49:127][636]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-15.56.49:205][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-15.56.49:214][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-15.56.49:248][636]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-15.56.49:249][636]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.12.09-15.56.49:249][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.12.09-15.56.49:251][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.12.09-15.56.49:269][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-15.56.49:275][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.12.09-15.56.49:958][637]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.12.09-15.59.32:501][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2024.12.09-15.59.32:628][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-15.59.32:670][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.09-15.59.32:718][  4]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.09-15.59.32:718][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.09-15.59.32:744][  4]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.09-15.59.32:745][  4]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BP_ThirdPersonCharacter186C781E456282EE9F7CA9A4EF98742A.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.09-15.59.32:786][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.133 ms (total: 8.19 sec)
+[2024.12.09-15.59.32:853][  4]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-15.59.32:853][  4]LogContentValidation: Enabled validators:
+[2024.12.09-15.59.32:853][  4]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-15.59.32:853][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-15.59.32:853][  4]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-15.59.32:853][  4]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.09-15.59.32:853][  4]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.09-15.59.50:759][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.12.09-15.59.50:883][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-15.59.50:940][204]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.09-15.59.50:983][204]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.09-15.59.50:983][204]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.09-15.59.51:009][204]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.09-15.59.51:010][204]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BP_ThirdPersonCharacter902C420147268B26AF90F8A56E3C06E5.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.09-15.59.51:052][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.965 ms (total: 8.35 sec)
+[2024.12.09-15.59.51:104][204]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-15.59.51:104][204]LogContentValidation: Enabled validators:
+[2024.12.09-15.59.51:104][204]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-15.59.51:104][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-15.59.51:104][204]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-15.59.51:104][204]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.09-15.59.51:104][204]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.09-16.01.20:706][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.12.09-16.01.20:842][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-16.01.20:889][308]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Components/Health_component] ([2] browsable assets)...
+[2024.12.09-16.01.20:889][308]OBJ SavePackage: Finished generating thumbnails for package [/Game/Components/Health_component]
+[2024.12.09-16.01.20:889][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Components/Health_component" FILE="../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Components/Health_component.uasset" SILENT=true
+[2024.12.09-16.01.20:895][308]LogSavePackage: Moving output files for package: /Game/Components/Health_component
+[2024.12.09-16.01.20:895][308]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Health_component0FE1AA1B4073AAD093B4779EAE5C3531.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Components/Health_component.uasset'
+[2024.12.09-16.01.20:935][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.457 ms (total: 8.45 sec)
+[2024.12.09-16.01.21:004][308]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-16.01.21:005][308]LogContentValidation: Enabled validators:
+[2024.12.09-16.01.21:005][308]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-16.01.21:005][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-16.01.21:005][308]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-16.01.21:005][308]LogContentValidation: Display: Validating asset /Game/Components/Health_component.Health_component
+[2024.12.09-16.01.21:005][308]AssetCheck: /Game/Components/Health_component Validating asset
+[2024.12.09-16.01.24:063][351]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-16.01.24:188][351]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-16.01.24:188][351]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.09-16.01.24:192][351]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.036 ms (total: 72.888 ms)
+[2024.12.09-16.01.24:220][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-16.01.24:220][351]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.09-16.01.24:227][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007595s)
+[2024.12.09-16.01.24:227][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007707s)
+[2024.12.09-16.01.24:253][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.12.09-16.01.24:261][351]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-16.01.24:262][351]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.09-16.01.24:262][351]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-16.01.24:262][351]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-16.01.24:262][351]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-16.01.24:262][351]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-16.01.24:264][351]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.09-16.01.24:264][351]LogWorldPartition: Display: WorldPartition initialize took 1.605 ms (total: 294.454 ms)
+[2024.12.09-16.01.24:264][351]LogPlayLevel: PIE: World Init took: (0.002946s)
+[2024.12.09-16.01.24:848][351]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.12.09-16.01.24:849][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-16.01.24:849][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-16.01.24:849][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-16.01.24:849][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-16.01.24:849][351]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-16.01.24:849][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-16.01.24:849][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-16.01.24:849][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-16.01.24:849][351]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-16.01.24:849][351]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-16.01.24:849][351]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-16.01.24:853][351]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-16.01.24:891][351]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.09-16.01.24:892][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-16.01.24:892][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-16.01.24:892][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-16.01.24:892][351]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.12.09-16.01.24:892][351]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.12.09-16.01.24:894][351]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.12.09-16.01.24:894][351]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.12.09-16.01.24:894][351]LogInit: FAudioDevice initialized with ID 14.
+[2024.12.09-16.01.24:894][351]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2024.12.09-16.01.24:894][351]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.09-16.01.24:897][351]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.09-16.01.24:900][351]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.09-19.01.24
+[2024.12.09-16.01.24:901][351]LogWorld: Bringing up level for play took: 0.003084
+[2024.12.09-16.01.24:903][351]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2024.12.09-16.01.25:383][351]PIE: Server logged in
+[2024.12.09-16.01.25:385][351]PIE: Play in editor total start time 1.312 seconds.
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3040: (0.343261 0.519330 1.549976) (0.358525 0.445140 1.595205) (0.411914 0.501935 1.523208)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3040: (0.343261 0.519330 1.549976) (0.358525 0.445140 1.595205) (0.411914 0.501935 1.523208)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3029: (0.519615 0.519615 1.419615) (0.480566 0.590011 1.380566) (0.454663 0.549218 1.449218)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3032: (0.454663 0.549218 1.449218) (0.411914 0.623208 1.401935) (0.389711 0.573640 1.473640)
+[2024.12.09-16.01.35:461][459]LogChaos: Warning: Degenerate triangle 3032: (0.454663 0.549218 1.449218) (0.411914 0.623208 1.401935) (0.389711 0.573640 1.473640)
+[2024.12.09-16.01.40:060][526]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2403702_2023272839] Zombie Death
+[2024.12.09-16.01.40:060][526]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.09-16.01.52:285][724]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0687
+[2024.12.09-16.01.52:297][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1". Node:  Get Damage Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.12.09-16.01.52:297][724]LogScript: Warning: Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:06B1
+[2024.12.09-16.01.52:298][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue". Node:  Get Damage Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.12.09-16.02.05:336][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-16.02.05:336][932]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.09-16.02.05:337][932]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-16.02.05:338][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-16.02.05:338][932]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.09-16.02.05:338][932]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.09-16.02.05:338][932]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-16.02.05:338][932]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-16.02.05:389][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-16.02.05:399][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-16.02.05:447][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-16.02.05:447][932]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.09-16.02.05:447][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.09-16.02.05:449][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.09-16.02.05:487][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-16.02.05:491][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.12.09-16.02.06:292][933]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.12.09-16.02.28:307][683]LogSlate: Window 'Message Log' being destroyed
+[2024.12.09-16.02.28:373][683]LogSlate: Window 'Message Log' being destroyed
+[2024.12.09-16.03.28:174][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.12.09-16.03.28:309][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-16.03.28:352][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.09-16.03.28:401][821]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.09-16.03.28:401][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.09-16.03.28:427][821]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.09-16.03.28:427][821]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BP_ThirdPersonCharacterCB68812640D38950EA8B8BB9FFD7F669.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.09-16.03.28:474][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.458 ms (total: 8.61 sec)
+[2024.12.09-16.03.28:534][821]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-16.03.28:534][821]LogContentValidation: Enabled validators:
+[2024.12.09-16.03.28:534][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-16.03.28:534][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-16.03.28:534][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-16.03.28:534][821]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.09-16.03.28:534][821]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.09-16.03.31:662][852]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-16.03.31:745][852]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-16.03.31:745][852]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.09-16.03.31:748][852]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.404 ms (total: 76.292 ms)
+[2024.12.09-16.03.31:778][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-16.03.31:779][852]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.09-16.03.31:785][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006103s)
+[2024.12.09-16.03.31:785][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006294s)
+[2024.12.09-16.03.31:809][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.12.09-16.03.31:815][852]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-16.03.31:816][852]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.09-16.03.31:816][852]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-16.03.31:816][852]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-16.03.31:816][852]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-16.03.31:816][852]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-16.03.31:818][852]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.09-16.03.31:818][852]LogWorldPartition: Display: WorldPartition initialize took 1.580 ms (total: 296.035 ms)
+[2024.12.09-16.03.31:818][852]LogPlayLevel: PIE: World Init took: (0.002867s)
+[2024.12.09-16.03.32:296][852]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.12.09-16.03.32:296][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-16.03.32:296][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-16.03.32:296][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-16.03.32:296][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-16.03.32:296][852]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-16.03.32:296][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-16.03.32:296][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-16.03.32:296][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-16.03.32:296][852]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-16.03.32:296][852]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-16.03.32:296][852]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-16.03.32:298][852]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-16.03.32:335][852]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.09-16.03.32:335][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-16.03.32:335][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-16.03.32:335][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-16.03.32:336][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.12.09-16.03.32:336][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.12.09-16.03.32:338][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.12.09-16.03.32:338][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.12.09-16.03.32:338][852]LogInit: FAudioDevice initialized with ID 15.
+[2024.12.09-16.03.32:338][852]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2024.12.09-16.03.32:339][852]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.09-16.03.32:341][852]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.09-16.03.32:344][852]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.09-19.03.32
+[2024.12.09-16.03.32:345][852]LogWorld: Bringing up level for play took: 0.003266
+[2024.12.09-16.03.32:348][852]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2024.12.09-16.03.33:411][852]PIE: Server logged in
+[2024.12.09-16.03.33:412][852]PIE: Play in editor total start time 1.737 seconds.
+[2024.12.09-16.03.46:843][ 29]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.03.46:843][ 29]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.03.46:843][ 29]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.03.46:843][ 29]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.03.46:843][ 29]LogChaos: Warning: Degenerate triangle 3037: (0.324760 0.593520 1.493520) (0.343261 0.519330 1.549976) (0.389711 0.573640 1.473640)
+[2024.12.09-16.03.46:843][ 29]LogChaos: Warning: Degenerate triangle 3037: (0.324760 0.593520 1.493520) (0.343261 0.519330 1.549976) (0.389711 0.573640 1.473640)
+[2024.12.09-16.03.47:411][ 36]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2403702_2023272839] Zombie Death
+[2024.12.09-16.03.47:411][ 36]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2479: (0.590011 0.480566 0.419434) (0.573640 0.389711 0.326360) (0.549218 0.454663 0.350782)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2479: (0.590011 0.480566 0.419434) (0.573640 0.389711 0.326360) (0.549218 0.454663 0.350782)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2479: (0.590011 0.480566 0.419434) (0.573640 0.389711 0.326360) (0.549218 0.454663 0.350782)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2479: (0.590011 0.480566 0.419434) (0.573640 0.389711 0.326360) (0.549218 0.454663 0.350782)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2481: (0.623208 0.411914 0.398065) (0.593520 0.324760 0.306480) (0.573640 0.389711 0.326360)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2481: (0.623208 0.411914 0.398065) (0.593520 0.324760 0.306480) (0.573640 0.389711 0.326360)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2481: (0.623208 0.411914 0.398065) (0.593520 0.324760 0.306480) (0.573640 0.389711 0.326360)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2481: (0.623208 0.411914 0.398065) (0.593520 0.324760 0.306480) (0.573640 0.389711 0.326360)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2481: (0.623208 0.411914 0.398065) (0.593520 0.324760 0.306480) (0.573640 0.389711 0.326360)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2481: (0.623208 0.411914 0.398065) (0.593520 0.324760 0.306480) (0.573640 0.389711 0.326360)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2488: (0.573640 0.389711 0.326360) (0.519330 0.343261 0.250024) (0.501935 0.411914 0.276792)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2488: (0.573640 0.389711 0.326360) (0.519330 0.343261 0.250024) (0.501935 0.411914 0.276792)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2387: (0.698233 0.137305 0.348984) (0.634737 0.064952 0.265263) (0.629732 0.129904 0.270268)
+[2024.12.09-16.03.47:806][ 41]LogChaos: Warning: Degenerate triangle 2387: (0.698233 0.137305 0.348984) (0.634737 0.064952 0.265263) (0.629732 0.129904 0.270268)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3026: (0.549218 0.454663 1.449218) (0.590011 0.480566 1.380566) (0.519615 0.519615 1.419615)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3046: (0.590011 0.480566 1.380566) (0.623208 0.501935 1.311914) (0.549218 0.549218 1.354663)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3046: (0.590011 0.480566 1.380566) (0.623208 0.501935 1.311914) (0.549218 0.549218 1.354663)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3046: (0.590011 0.480566 1.380566) (0.623208 0.501935 1.311914) (0.549218 0.549218 1.354663)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3046: (0.590011 0.480566 1.380566) (0.623208 0.501935 1.311914) (0.549218 0.549218 1.354663)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3046: (0.590011 0.480566 1.380566) (0.623208 0.501935 1.311914) (0.549218 0.549218 1.354663)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3046: (0.590011 0.480566 1.380566) (0.623208 0.501935 1.311914) (0.549218 0.549218 1.354663)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3047: (0.590011 0.480566 1.380566) (0.663178 0.430230 1.330230) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3047: (0.590011 0.480566 1.380566) (0.663178 0.430230 1.330230) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:892][ 42]LogCharacterMovement: BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2403702_2023272839 is stuck and failed to move! Velocity: X=-199.98 Y=-2.87 Z=0.00 Location: X=1140.21 Y=922.97 Z=90.04 Normal: X=0.19 Y=-0.98 Z=0.00 PenetrationDepth:0.272 Actor:BP_Bullet_C_1 Component:Bullet_Mesh BoneName:None (0 other events since notify)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3047: (0.590011 0.480566 1.380566) (0.663178 0.430230 1.330230) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3047: (0.590011 0.480566 1.380566) (0.663178 0.430230 1.330230) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3047: (0.590011 0.480566 1.380566) (0.663178 0.430230 1.330230) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3047: (0.590011 0.480566 1.380566) (0.663178 0.430230 1.330230) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3047: (0.590011 0.480566 1.380566) (0.663178 0.430230 1.330230) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3047: (0.590011 0.480566 1.380566) (0.663178 0.430230 1.330230) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:892][ 42]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:893][ 42]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:893][ 42]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:893][ 42]LogChaos: Warning: Degenerate triangle 3049: (0.663178 0.430230 1.330230) (0.695205 0.445140 1.258525) (0.623208 0.501935 1.311914)
+[2024.12.09-16.03.47:893][ 42]LogChaos: Warning: Degenerate triangle 3055: (0.695205 0.445140 1.258525) (0.720351 0.456977 1.186820) (0.649976 0.519330 1.243261)
+[2024.12.09-16.03.47:893][ 42]LogChaos: Warning: Degenerate triangle 3055: (0.695205 0.445140 1.258525) (0.720351 0.456977 1.186820) (0.649976 0.519330 1.243261)
+[2024.12.09-16.03.47:893][ 42]LogChaos: Warning: Degenerate triangle 2761: (0.763012 0.000000 1.377297) (0.807339 0.000000 1.297747) (0.760416 0.071705 1.376052)
+[2024.12.09-16.03.47:893][ 42]LogChaos: Warning: Degenerate triangle 2761: (0.763012 0.000000 1.377297) (0.807339 0.000000 1.297747) (0.760416 0.071705 1.376052)
+[2024.12.09-16.03.51:427][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-16.03.51:428][ 83]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.09-16.03.51:428][ 83]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-16.03.51:429][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-16.03.51:429][ 83]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.09-16.03.51:429][ 83]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.09-16.03.51:429][ 83]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-16.03.51:429][ 83]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-16.03.51:534][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-16.03.51:542][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-16.03.51:578][ 83]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-16.03.51:578][ 83]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.09-16.03.51:578][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.09-16.03.51:581][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.09-16.03.51:591][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-16.03.51:598][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2024.12.09-16.03.52:386][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2024.12.09-16.04.30:673][567]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_59'.
+[2024.12.09-16.04.30:756][568]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_60'.
+[2024.12.09-16.04.33:250][598]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapon/BP_Rifle.BP_Rifle
+[2024.12.09-16.04.33:251][598]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_61'.
+[2024.12.09-16.04.45:027][239]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_62'.
+[2024.12.09-16.04.58:711][886]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-16.04.58:712][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-16.04.58:799][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.09-16.05.09:343][ 36]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapon/BP_WeaponBase.BP_WeaponBase
+[2024.12.09-16.05.09:344][ 36]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_63'.
+[2024.12.09-16.06.14:572][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.12.09-16.06.14:624][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.09-16.06.14:686][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint] ([2] browsable assets)...
+[2024.12.09-16.06.14:743][503]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint]
+[2024.12.09-16.06.14:743][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint]
+[2024.12.09-16.06.14:753][503]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint
+[2024.12.09-16.06.14:753][503]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BP_Zombie_Mutant_Blueprint51B5CB2848C367404428DA87CE8F1BDA.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.uasset'
+[2024.12.09-16.06.14:799][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.921 ms (total: 8.79 sec)
+[2024.12.09-16.06.14:903][503]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.09-16.06.14:903][503]LogContentValidation: Enabled validators:
+[2024.12.09-16.06.14:903][503]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.09-16.06.14:903][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.09-16.06.14:903][503]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.09-16.06.14:903][503]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint
+[2024.12.09-16.06.14:904][503]AssetCheck: /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint Validating asset
+[2024.12.09-16.06.21:506][687]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.09-16.06.21:655][687]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.09-16.06.21:655][687]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.09-16.06.21:659][687]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.116 ms (total: 80.409 ms)
+[2024.12.09-16.06.21:706][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.09-16.06.21:706][687]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.09-16.06.21:718][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011915s)
+[2024.12.09-16.06.21:719][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.011963s)
+[2024.12.09-16.06.21:738][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.12.09-16.06.21:744][687]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.09-16.06.21:745][687]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.09-16.06.21:745][687]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.09-16.06.21:745][687]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.09-16.06.21:746][687]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.09-16.06.21:746][687]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.09-16.06.21:747][687]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.09-16.06.21:747][687]LogWorldPartition: Display: WorldPartition initialize took 1.823 ms (total: 297.858 ms)
+[2024.12.09-16.06.21:747][687]LogPlayLevel: PIE: World Init took: (0.003268s)
+[2024.12.09-16.06.22:315][687]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.12.09-16.06.22:315][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.09-16.06.22:315][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.09-16.06.22:315][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.09-16.06.22:315][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.09-16.06.22:315][687]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.09-16.06.22:316][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.09-16.06.22:316][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.09-16.06.22:316][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.09-16.06.22:316][687]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.09-16.06.22:316][687]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.09-16.06.22:316][687]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.09-16.06.22:318][687]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.09-16.06.22:360][687]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.09-16.06.22:361][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.09-16.06.22:361][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.09-16.06.22:361][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.09-16.06.22:361][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.12.09-16.06.22:361][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.12.09-16.06.22:363][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.12.09-16.06.22:363][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.12.09-16.06.22:363][687]LogInit: FAudioDevice initialized with ID 16.
+[2024.12.09-16.06.22:363][687]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonMap'.
+[2024.12.09-16.06.22:363][687]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.09-16.06.22:365][687]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.09-16.06.22:368][687]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.09-19.06.22
+[2024.12.09-16.06.22:369][687]LogWorld: Bringing up level for play took: 0.003470
+[2024.12.09-16.06.22:371][687]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2024.12.09-16.06.22:864][687]PIE: Server logged in
+[2024.12.09-16.06.22:866][687]PIE: Play in editor total start time 1.35 seconds.
+[2024.12.09-16.06.29:298][744]LogChaos: Warning: Degenerate triangle 1494: (-0.411914 0.501935 1.523208) (-0.430230 0.430230 1.563178) (-0.343261 0.519330 1.549976)
+[2024.12.09-16.06.29:298][744]LogChaos: Warning: Degenerate triangle 1494: (-0.411914 0.501935 1.523208) (-0.430230 0.430230 1.563178) (-0.343261 0.519330 1.549976)
+[2024.12.09-16.06.29:298][744]LogChaos: Warning: Degenerate triangle 1494: (-0.411914 0.501935 1.523208) (-0.430230 0.430230 1.563178) (-0.343261 0.519330 1.549976)
+[2024.12.09-16.06.29:298][744]LogChaos: Warning: Degenerate triangle 1494: (-0.411914 0.501935 1.523208) (-0.430230 0.430230 1.563178) (-0.343261 0.519330 1.549976)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1496: (-0.430230 0.430230 1.563178) (-0.445140 0.358525 1.595205) (-0.358525 0.445140 1.595205)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1496: (-0.430230 0.430230 1.563178) (-0.445140 0.358525 1.595205) (-0.358525 0.445140 1.595205)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1496: (-0.430230 0.430230 1.563178) (-0.445140 0.358525 1.595205) (-0.358525 0.445140 1.595205)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1496: (-0.430230 0.430230 1.563178) (-0.445140 0.358525 1.595205) (-0.358525 0.445140 1.595205)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1496: (-0.430230 0.430230 1.563178) (-0.445140 0.358525 1.595205) (-0.358525 0.445140 1.595205)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1496: (-0.430230 0.430230 1.563178) (-0.445140 0.358525 1.595205) (-0.358525 0.445140 1.595205)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1486: (-0.454663 0.549218 1.449218) (-0.480566 0.480566 1.490011) (-0.389711 0.573640 1.473640)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1486: (-0.454663 0.549218 1.449218) (-0.480566 0.480566 1.490011) (-0.389711 0.573640 1.473640)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1208: (-0.704857 0.068652 1.455395) (-0.763012 0.000000 1.377297) (-0.707051 0.000000 1.456846)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1208: (-0.704857 0.068652 1.455395) (-0.763012 0.000000 1.377297) (-0.707051 0.000000 1.456846)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1235: (-0.634737 0.064952 1.534737) (-0.707051 0.000000 1.456846) (-0.636396 0.000000 1.536396)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1235: (-0.634737 0.064952 1.534737) (-0.707051 0.000000 1.456846) (-0.636396 0.000000 1.536396)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1235: (-0.634737 0.064952 1.534737) (-0.707051 0.000000 1.456846) (-0.636396 0.000000 1.536396)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1235: (-0.634737 0.064952 1.534737) (-0.707051 0.000000 1.456846) (-0.636396 0.000000 1.536396)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1208: (-0.704857 0.068652 1.455395) (-0.763012 0.000000 1.377297) (-0.707051 0.000000 1.456846)
+[2024.12.09-16.06.29:299][744]LogChaos: Warning: Degenerate triangle 1208: (-0.704857 0.068652 1.455395) (-0.763012 0.000000 1.377297) (-0.707051 0.000000 1.456846)
+[2024.12.09-16.06.29:683][750]LogChaos: Warning: Degenerate triangle 167: (0.000000 -0.079550 0.003523) (-0.079342 -0.079342 0.007022) (0.000000 0.000000 0.000000)
+[2024.12.09-16.06.29:683][750]LogChaos: Warning: Degenerate triangle 167: (0.000000 -0.079550 0.003523) (-0.079342 -0.079342 0.007022) (0.000000 0.000000 0.000000)
+[2024.12.09-16.06.29:683][750]LogChaos: Warning: Degenerate triangle 833: (0.000000 0.000000 0.000000) (-0.079550 0.000000 0.003523) (0.000000 0.079550 0.003523)
+[2024.12.09-16.06.29:683][750]LogChaos: Warning: Degenerate triangle 172: (-0.079342 -0.079342 0.007022) (-0.158684 -0.078717 0.017604) (-0.079550 0.000000 0.003523)
+[2024.12.09-16.06.29:683][750]LogChaos: Warning: Degenerate triangle 172: (-0.079342 -0.079342 0.007022) (-0.158684 -0.078717 0.017604) (-0.079550 0.000000 0.003523)
+[2024.12.09-16.06.29:683][750]LogChaos: Warning: Degenerate triangle 833: (0.000000 0.000000 0.000000) (-0.079550 0.000000 0.003523) (0.000000 0.079550 0.003523)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 3037: (0.324760 0.593520 1.493520) (0.343261 0.519330 1.549976) (0.389711 0.573640 1.473640)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 3037: (0.324760 0.593520 1.493520) (0.343261 0.519330 1.549976) (0.389711 0.573640 1.473640)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 3037: (0.324760 0.593520 1.493520) (0.343261 0.519330 1.549976) (0.389711 0.573640 1.473640)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 3037: (0.324760 0.593520 1.493520) (0.343261 0.519330 1.549976) (0.389711 0.573640 1.473640)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 3040: (0.343261 0.519330 1.549976) (0.358525 0.445140 1.595205) (0.411914 0.501935 1.523208)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 3040: (0.343261 0.519330 1.549976) (0.358525 0.445140 1.595205) (0.411914 0.501935 1.523208)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 2824: (0.000000 0.318198 1.741873) (0.000000 0.238649 1.767783) (0.076163 0.317368 1.738735)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 2824: (0.000000 0.318198 1.741873) (0.000000 0.238649 1.767783) (0.076163 0.317368 1.738735)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 2885: (0.380814 0.296760 1.659549) (0.310651 0.228489 1.713197) (0.388313 0.222570 1.680817)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 2885: (0.380814 0.296760 1.659549) (0.310651 0.228489 1.713197) (0.388313 0.222570 1.680817)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 2885: (0.380814 0.296760 1.659549) (0.310651 0.228489 1.713197) (0.388313 0.222570 1.680817)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 2885: (0.380814 0.296760 1.659549) (0.310651 0.228489 1.713197) (0.388313 0.222570 1.680817)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 2853: (0.310651 0.228489 1.713197) (0.314866 0.152326 1.729250) (0.388313 0.222570 1.680817)
+[2024.12.09-16.06.29:744][751]LogChaos: Warning: Degenerate triangle 2853: (0.310651 0.228489 1.713197) (0.314866 0.152326 1.729250) (0.388313 0.222570 1.680817)
+[2024.12.09-16.06.30:247][758]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2403702_2023272839] Zombie Death
+[2024.12.09-16.06.30:247][758]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.09-16.06.30:489][761]LogChaos: Warning: Degenerate triangle 2525: (0.804436 0.074190 0.503290) (0.763012 0.000000 0.422703) (0.760416 0.071705 0.423947)
+[2024.12.09-16.06.30:489][761]LogChaos: Warning: Degenerate triangle 2525: (0.804436 0.074190 0.503290) (0.763012 0.000000 0.422703) (0.760416 0.071705 0.423947)
+[2024.12.09-16.06.30:489][761]LogChaos: Warning: Degenerate triangle 2391: (0.707051 0.000000 0.343153) (0.636396 0.000000 0.263604) (0.704857 0.068652 0.344605)
+[2024.12.09-16.06.30:490][761]LogChaos: Warning: Degenerate triangle 1779: (0.763012 0.000000 0.422703) (0.704857 -0.068652 0.344605) (0.707051 0.000000 0.343153)
+[2024.12.09-16.06.30:490][761]LogChaos: Warning: Degenerate triangle 1779: (0.763012 0.000000 0.422703) (0.704857 -0.068652 0.344605) (0.707051 0.000000 0.343153)
+[2024.12.09-16.06.30:490][761]LogChaos: Warning: Degenerate triangle 2391: (0.707051 0.000000 0.343153) (0.636396 0.000000 0.263604) (0.704857 0.068652 0.344605)
+[2024.12.09-16.06.30:491][761]LogChaos: Warning: Degenerate triangle 1779: (0.763012 0.000000 0.422703) (0.704857 -0.068652 0.344605) (0.707051 0.000000 0.343153)
+[2024.12.09-16.06.30:491][761]LogChaos: Warning: Degenerate triangle 1779: (0.763012 0.000000 0.422703) (0.704857 -0.068652 0.344605) (0.707051 0.000000 0.343153)
+[2024.12.09-16.06.30:491][761]LogChaos: Warning: Degenerate triangle 2391: (0.707051 0.000000 0.343153) (0.636396 0.000000 0.263604) (0.704857 0.068652 0.344605)
+[2024.12.09-16.06.30:492][761]LogChaos: Warning: Degenerate triangle 1780: (0.760416 -0.071705 0.423947) (0.704857 -0.068652 0.344605) (0.763012 0.000000 0.422703)
+[2024.12.09-16.06.30:492][761]LogChaos: Warning: Degenerate triangle 1780: (0.760416 -0.071705 0.423947) (0.704857 -0.068652 0.344605) (0.763012 0.000000 0.422703)
+[2024.12.09-16.06.30:492][761]LogChaos: Warning: Degenerate triangle 2391: (0.707051 0.000000 0.343153) (0.636396 0.000000 0.263604) (0.704857 0.068652 0.344605)
+[2024.12.09-16.06.38:183][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-16.06.38:183][873]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.09-16.06.38:183][873]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-16.06.38:184][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-16.06.38:184][873]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.09-16.06.38:184][873]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.09-16.06.38:184][873]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.09-16.06.38:184][873]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.09-16.06.38:231][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.09-16.06.38:246][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-16.06.38:277][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.09-16.06.38:278][873]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.09-16.06.38:278][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.09-16.06.38:280][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.09-16.06.38:308][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.09-16.06.38:311][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.09-16.06.39:488][874]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2024.12.09-16.07.06:422][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.09-16.07.06:428][959]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/IE/F9KJUW9QEFN4XZDQPMRY28_Auto6
+[2024.12.09-16.07.06:429][959]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/F9KJUW9QEFN4XZDQPMRY28_Auto6C66C8EF740C983A4430567B959E03455.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/IE/F9KJUW9QEFN4XZDQPMRY28_Auto6.uasset'
+[2024.12.09-16.07.06:438][959]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.039
+[2024.12.09-16.07.06:438][959]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
