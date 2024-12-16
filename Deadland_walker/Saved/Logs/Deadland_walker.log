@@ -3458,3 +3458,781 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.12.16-18.50.48:894][823]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_0C9A3C08B6C2813902_2131846394 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/59/JHDFWT4GKY53HLKWVXAIKX.PackageMetaData in its package
 [2024.12.16-18.50.48:897][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
 [2024.12.16-18.50.48:930][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.16-18.51.50:394][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.12.16-18.52.10:280][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.12.16-18.52.10:297][944]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_263.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-18.52.10:300][944]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703251462.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-18.52.10:302][944]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_113.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-18.52.10:330][944]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_267.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-18.52.10:333][944]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703251464.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-18.52.10:335][944]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_117.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-18.52.10:339][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-18.52.10:399][944]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner] ([2] browsable assets)...
+[2024.12.16-18.52.10:399][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner]
+[2024.12.16-18.52.10:406][944]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner
+[2024.12.16-18.52.10:406][944]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_ZombieSpawner657D74A846A2419ED91FD7B122F997D0.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/Bp_ZombieSpawner.uasset'
+[2024.12.16-18.52.10:452][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.056 ms (total: 5.42 sec)
+[2024.12.16-18.52.10:499][944]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-18.52.10:499][944]LogContentValidation: Enabled validators:
+[2024.12.16-18.52.10:499][944]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-18.52.10:499][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-18.52.10:499][944]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-18.52.10:499][944]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner.Bp_ZombieSpawner
+[2024.12.16-18.52.10:499][944]AssetCheck: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner Validating asset
+[2024.12.16-18.52.23:959][360]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.16-18.52.24:021][360]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.16-18.52.24:022][360]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.16-18.52.24:025][360]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.048 ms (total: 58.261 ms)
+[2024.12.16-18.52.24:076][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.16-18.52.24:076][360]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-18.52.24:102][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025709s)
+[2024.12.16-18.52.24:102][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.025751s)
+[2024.12.16-18.52.24:120][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.12.16-18.52.24:122][360]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.16-18.52.24:122][360]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.16-18.52.24:123][360]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.16-18.52.24:123][360]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.16-18.52.24:123][360]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.16-18.52.24:123][360]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.16-18.52.24:127][360]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.16-18.52.24:127][360]LogWorldPartition: Display: WorldPartition initialize took 3.950 ms (total: 332.218 ms)
+[2024.12.16-18.52.24:127][360]LogPlayLevel: PIE: World Init took: (0.005217s)
+[2024.12.16-18.52.25:282][360]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.12.16-18.52.25:282][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.16-18.52.25:282][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.16-18.52.25:282][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.16-18.52.25:282][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.16-18.52.25:282][360]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.16-18.52.25:282][360]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.16-18.52.25:282][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.16-18.52.25:282][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.16-18.52.25:282][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.16-18.52.25:282][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.16-18.52.25:282][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.16-18.52.25:287][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.16-18.52.25:320][360]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.16-18.52.25:321][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.16-18.52.25:321][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.16-18.52.25:321][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.16-18.52.25:321][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.12.16-18.52.25:321][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.12.16-18.52.25:323][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.12.16-18.52.25:323][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.12.16-18.52.25:323][360]LogInit: FAudioDevice initialized with ID 18.
+[2024.12.16-18.52.25:323][360]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonMap'.
+[2024.12.16-18.52.25:323][360]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.16-18.52.25:326][360]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.16-18.52.25:333][360]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.16-21.52.25
+[2024.12.16-18.52.25:333][360]LogWorld: Bringing up level for play took: 0.007121
+[2024.12.16-18.52.25:335][360]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.12.16-18.52.25:341][360]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.52.25:343][360]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.52.25:343][360]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.52.25:343][360]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.52.26:014][360]PIE: Server logged in
+[2024.12.16-18.52.26:015][360]PIE: Play in editor total start time 2.048 seconds.
+[2024.12.16-18.52.33:462][416]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-18.52.33:563][418]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-18.52.34:584][425]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-18.52.34:755][427]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2853902_1536729891] Zombie Death
+[2024.12.16-18.52.34:755][427]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-18.52.41:099][462]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.53.28:993][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.53.28:993][429]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-18.53.28:995][429]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-18.53.28:997][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.53.28:997][429]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.16-18.53.28:998][429]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.16-18.53.28:998][429]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.16-18.53.28:998][429]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.16-18.53.29:003][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.16-18.53.29:010][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.53.29:031][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.16-18.53.29:032][429]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.16-18.53.29:032][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.16-18.53.29:033][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.16-18.53.29:064][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.53.29:072][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.12.16-18.53.29:815][430]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.12.16-18.53.42:830][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.16-18.53.42:859][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-18.53.42:914][686]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Map/Map_Assets/Barn/Bp_Barn] ([2] browsable assets)...
+[2024.12.16-18.53.42:956][686]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Map/Map_Assets/Barn/Bp_Barn.Bp_Barn]
+[2024.12.16-18.53.42:956][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Map_Assets/Barn/Bp_Barn]
+[2024.12.16-18.53.42:956][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_Assets/Barn/Bp_Barn" FILE="../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Map/Map_Assets/Barn/Bp_Barn.uasset" SILENT=true
+[2024.12.16-18.53.42:968][686]LogSavePackage: Moving output files for package: /Game/Map/Map_Assets/Barn/Bp_Barn
+[2024.12.16-18.53.42:968][686]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_Barn4EE306824B54E229C56D69B7701606A4.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Map/Map_Assets/Barn/Bp_Barn.uasset'
+[2024.12.16-18.53.43:000][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.827 ms (total: 5.56 sec)
+[2024.12.16-18.53.43:066][686]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-18.53.43:066][686]LogContentValidation: Enabled validators:
+[2024.12.16-18.53.43:066][686]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-18.53.43:066][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-18.53.43:066][686]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-18.53.43:066][686]LogContentValidation: Display: Validating asset /Game/Map/Map_Assets/Barn/Bp_Barn.Bp_Barn
+[2024.12.16-18.53.43:066][686]AssetCheck: /Game/Map/Map_Assets/Barn/Bp_Barn Validating asset
+[2024.12.16-18.53.51:009][934]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.16-18.53.51:067][934]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.16-18.53.51:067][934]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.16-18.53.51:069][934]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.523 ms (total: 60.784 ms)
+[2024.12.16-18.53.51:095][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.16-18.53.51:095][934]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-18.53.51:125][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030089s)
+[2024.12.16-18.53.51:125][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.030153s)
+[2024.12.16-18.53.51:142][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.16-18.53.51:144][934]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.16-18.53.51:145][934]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.16-18.53.51:145][934]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.16-18.53.51:145][934]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.16-18.53.51:145][934]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.16-18.53.51:145][934]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.16-18.53.51:149][934]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.16-18.53.51:149][934]LogWorldPartition: Display: WorldPartition initialize took 4.069 ms (total: 336.287 ms)
+[2024.12.16-18.53.51:149][934]LogPlayLevel: PIE: World Init took: (0.005270s)
+[2024.12.16-18.53.52:296][934]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.12.16-18.53.52:296][934]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.16-18.53.52:296][934]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.16-18.53.52:297][934]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.16-18.53.52:297][934]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.16-18.53.52:297][934]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.16-18.53.52:297][934]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.16-18.53.52:297][934]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.16-18.53.52:297][934]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.16-18.53.52:297][934]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.16-18.53.52:297][934]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.16-18.53.52:297][934]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.16-18.53.52:298][934]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.16-18.53.52:330][934]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.16-18.53.52:330][934]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.16-18.53.52:330][934]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.16-18.53.52:330][934]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.16-18.53.52:330][934]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.12.16-18.53.52:330][934]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.12.16-18.53.52:333][934]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.12.16-18.53.52:333][934]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.12.16-18.53.52:333][934]LogInit: FAudioDevice initialized with ID 19.
+[2024.12.16-18.53.52:333][934]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonMap'.
+[2024.12.16-18.53.52:333][934]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.12.16-18.53.52:335][934]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.16-18.53.52:342][934]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.16-21.53.52
+[2024.12.16-18.53.52:342][934]LogWorld: Bringing up level for play took: 0.006946
+[2024.12.16-18.53.52:345][934]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.12.16-18.53.52:360][934]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.53.52:361][934]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.53.52:361][934]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.53.52:362][934]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.53.53:141][934]PIE: Server logged in
+[2024.12.16-18.53.53:143][934]PIE: Play in editor total start time 2.122 seconds.
+[2024.12.16-18.54.00:046][ 58]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-18.54.00:161][ 60]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-18.54.00:277][ 62]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-18.54.00:395][ 64]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2853902_1536729891] Zombie Death
+[2024.12.16-18.54.00:395][ 64]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-18.54.11:427][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.54.11:427][468]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-18.54.11:428][468]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-18.54.11:429][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.54.11:429][468]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.16-18.54.11:429][468]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.16-18.54.11:430][468]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.16-18.54.11:430][468]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.16-18.54.11:437][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.16-18.54.11:443][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.54.11:463][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.16-18.54.11:463][468]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.12.16-18.54.11:464][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.12.16-18.54.11:465][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.12.16-18.54.11:475][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.54.11:483][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.12.16-18.54.12:781][469]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.12.16-18.54.18:673][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.16-18.54.18:702][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-18.54.18:769][608]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Map/Map_Assets/Barn/Bp_Barn] ([2] browsable assets)...
+[2024.12.16-18.54.18:810][608]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Map/Map_Assets/Barn/Bp_Barn.Bp_Barn]
+[2024.12.16-18.54.18:810][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Map_Assets/Barn/Bp_Barn]
+[2024.12.16-18.54.18:810][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_Assets/Barn/Bp_Barn" FILE="../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Map/Map_Assets/Barn/Bp_Barn.uasset" SILENT=true
+[2024.12.16-18.54.18:822][608]LogSavePackage: Moving output files for package: /Game/Map/Map_Assets/Barn/Bp_Barn
+[2024.12.16-18.54.18:822][608]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_Barn8E92931941F19AFDB9A9E89537AE4FE2.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Map/Map_Assets/Barn/Bp_Barn.uasset'
+[2024.12.16-18.54.18:871][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.396 ms (total: 5.72 sec)
+[2024.12.16-18.54.18:931][608]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-18.54.18:932][608]LogContentValidation: Enabled validators:
+[2024.12.16-18.54.18:932][608]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-18.54.18:932][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-18.54.18:932][608]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-18.54.18:932][608]LogContentValidation: Display: Validating asset /Game/Map/Map_Assets/Barn/Bp_Barn.Bp_Barn
+[2024.12.16-18.54.18:932][608]AssetCheck: /Game/Map/Map_Assets/Barn/Bp_Barn Validating asset
+[2024.12.16-18.54.25:991][735]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.16-18.54.26:067][735]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.16-18.54.26:067][735]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.16-18.54.26:069][735]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.919 ms (total: 62.703 ms)
+[2024.12.16-18.54.26:102][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.16-18.54.26:103][735]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-18.54.26:129][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025993s)
+[2024.12.16-18.54.26:129][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.026075s)
+[2024.12.16-18.54.26:150][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.12.16-18.54.26:152][735]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.16-18.54.26:153][735]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.16-18.54.26:153][735]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.16-18.54.26:153][735]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.16-18.54.26:153][735]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.16-18.54.26:153][735]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.16-18.54.26:157][735]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.16-18.54.26:158][735]LogWorldPartition: Display: WorldPartition initialize took 4.051 ms (total: 340.339 ms)
+[2024.12.16-18.54.26:158][735]LogPlayLevel: PIE: World Init took: (0.005518s)
+[2024.12.16-18.54.26:777][735]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.12.16-18.54.26:777][735]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.16-18.54.26:777][735]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.16-18.54.26:778][735]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.16-18.54.26:778][735]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.16-18.54.26:778][735]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.16-18.54.26:778][735]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.16-18.54.26:778][735]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.16-18.54.26:778][735]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.16-18.54.26:778][735]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.16-18.54.26:778][735]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.16-18.54.26:778][735]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.16-18.54.26:781][735]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.16-18.54.26:814][735]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.16-18.54.26:814][735]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.16-18.54.26:815][735]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.16-18.54.26:815][735]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.16-18.54.26:815][735]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.12.16-18.54.26:815][735]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.12.16-18.54.26:817][735]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.12.16-18.54.26:817][735]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.12.16-18.54.26:817][735]LogInit: FAudioDevice initialized with ID 20.
+[2024.12.16-18.54.26:817][735]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonMap'.
+[2024.12.16-18.54.26:817][735]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.12.16-18.54.26:820][735]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.16-18.54.26:826][735]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.16-21.54.26
+[2024.12.16-18.54.26:827][735]LogWorld: Bringing up level for play took: 0.006984
+[2024.12.16-18.54.26:829][735]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.12.16-18.54.26:835][735]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.54.26:836][735]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.54.26:836][735]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.54.26:837][735]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.54.27:368][735]PIE: Server logged in
+[2024.12.16-18.54.27:370][735]PIE: Play in editor total start time 1.369 seconds.
+[2024.12.16-18.54.33:705][818]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-18.54.33:810][820]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-18.54.33:916][822]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-18.54.34:022][824]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2853902_1536729891] Zombie Death
+[2024.12.16-18.54.34:022][824]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-18.54.43:537][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.54.43:537][226]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-18.54.43:538][226]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-18.54.43:541][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.54.43:541][226]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.16-18.54.43:541][226]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.16-18.54.43:541][226]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.16-18.54.43:541][226]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.16-18.54.43:549][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.16-18.54.43:556][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.54.43:577][226]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.16-18.54.43:577][226]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.12.16-18.54.43:577][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.12.16-18.54.43:579][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.12.16-18.54.43:592][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.54.43:598][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.12.16-18.54.44:562][227]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.12.16-18.54.50:707][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.16-18.54.50:741][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-18.54.50:803][386]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Map/Map_Assets/Barn/Bp_Barn] ([2] browsable assets)...
+[2024.12.16-18.54.50:873][386]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Map/Map_Assets/Barn/Bp_Barn.Bp_Barn]
+[2024.12.16-18.54.50:873][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Map_Assets/Barn/Bp_Barn]
+[2024.12.16-18.54.50:873][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_Assets/Barn/Bp_Barn" FILE="../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Map/Map_Assets/Barn/Bp_Barn.uasset" SILENT=true
+[2024.12.16-18.54.50:890][386]LogSavePackage: Moving output files for package: /Game/Map/Map_Assets/Barn/Bp_Barn
+[2024.12.16-18.54.50:893][386]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_BarnB56C72CF42A80EFADCCD8C919E0D11A5.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Map/Map_Assets/Barn/Bp_Barn.uasset'
+[2024.12.16-18.54.50:939][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.465 ms (total: 5.92 sec)
+[2024.12.16-18.54.51:016][386]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-18.54.51:016][386]LogContentValidation: Enabled validators:
+[2024.12.16-18.54.51:016][386]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-18.54.51:016][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-18.54.51:016][386]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-18.54.51:016][386]LogContentValidation: Display: Validating asset /Game/Map/Map_Assets/Barn/Bp_Barn.Bp_Barn
+[2024.12.16-18.54.51:016][386]AssetCheck: /Game/Map/Map_Assets/Barn/Bp_Barn Validating asset
+[2024.12.16-18.55.00:225][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.12.16-18.55.03:811][551]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.16-18.55.03:881][551]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.16-18.55.03:881][551]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.16-18.55.03:885][551]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.104 ms (total: 66.808 ms)
+[2024.12.16-18.55.03:916][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.16-18.55.03:916][551]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-18.55.03:943][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027475s)
+[2024.12.16-18.55.03:943][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.027532s)
+[2024.12.16-18.55.03:958][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.16-18.55.03:960][551]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.16-18.55.03:960][551]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.16-18.55.03:961][551]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.16-18.55.03:961][551]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.16-18.55.03:961][551]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.16-18.55.03:961][551]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.16-18.55.03:965][551]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.16-18.55.03:965][551]LogWorldPartition: Display: WorldPartition initialize took 3.965 ms (total: 344.305 ms)
+[2024.12.16-18.55.03:965][551]LogPlayLevel: PIE: World Init took: (0.005295s)
+[2024.12.16-18.55.04:590][551]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.12.16-18.55.04:591][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.16-18.55.04:591][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.16-18.55.04:591][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.16-18.55.04:591][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.16-18.55.04:591][551]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.16-18.55.04:591][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.16-18.55.04:591][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.16-18.55.04:591][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.16-18.55.04:591][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.16-18.55.04:591][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.16-18.55.04:591][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.16-18.55.04:595][551]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.16-18.55.04:627][551]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.16-18.55.04:627][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.16-18.55.04:627][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.16-18.55.04:627][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.16-18.55.04:628][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.12.16-18.55.04:628][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.12.16-18.55.04:630][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.12.16-18.55.04:630][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.12.16-18.55.04:630][551]LogInit: FAudioDevice initialized with ID 21.
+[2024.12.16-18.55.04:630][551]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2024.12.16-18.55.04:630][551]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.12.16-18.55.04:632][551]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.16-18.55.04:639][551]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.16-21.55.04
+[2024.12.16-18.55.04:640][551]LogWorld: Bringing up level for play took: 0.007296
+[2024.12.16-18.55.04:642][551]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.12.16-18.55.04:648][551]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.55.04:649][551]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.55.04:650][551]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.55.04:650][551]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.55.05:368][551]PIE: Server logged in
+[2024.12.16-18.55.05:370][551]PIE: Play in editor total start time 1.55 seconds.
+[2024.12.16-18.55.10:249][573]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-18.55.10:348][575]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-18.55.10:562][577]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-18.55.10:733][579]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2853902_1536729891] Zombie Death
+[2024.12.16-18.55.10:733][579]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-18.55.37:501][807]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint_C
+[2024.12.16-18.55.37:501][807]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint_C
+[2024.12.16-18.55.37:502][807]LogActorFactory: Actor Factory spawned Blueprint /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint as actor: BP_Zombie_Mutant_Blueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie_Mutant_Blueprint_C_3
+[2024.12.16-18.55.37:503][807]LogActorFactory: Actor Factory spawned Blueprint /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint as actor: BP_Zombie_Mutant_Blueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie_Mutant_Blueprint_C_3
+[2024.12.16-18.55.38:470][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.12.16-18.55.38:523][849]LogEditorActor: Deleted 0 Actors (0.071 secs)
+[2024.12.16-18.55.38:533][849]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint_C
+[2024.12.16-18.55.38:534][849]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint_C
+[2024.12.16-18.55.38:539][849]LogActorFactory: Actor Factory spawned Blueprint /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint as actor: BP_Zombie_Mutant_Blueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie_Mutant_Blueprint_C_4
+[2024.12.16-18.55.38:540][849]LogActorFactory: Actor Factory spawned Blueprint /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint as actor: BP_Zombie_Mutant_Blueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie_Mutant_Blueprint_C_4
+[2024.12.16-18.55.58:253][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.55.58:253][654]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-18.55.58:254][654]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-18.55.58:257][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.55.58:257][654]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.16-18.55.58:257][654]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.16-18.55.58:258][654]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.16-18.55.58:258][654]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.16-18.55.58:264][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.16-18.55.58:272][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.55.58:292][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.55.58:293][654]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.12.16-18.55.58:293][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.12.16-18.55.58:295][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.12.16-18.55.58:327][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.16-18.55.59:199][655]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.12.16-18.56.03:381][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.16-18.56.10:968][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.12.16-18.56.10:998][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-18.56.11:049][ 56]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Map/Map_Assets/Barn/Bp_Barn] ([2] browsable assets)...
+[2024.12.16-18.56.11:094][ 56]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Map/Map_Assets/Barn/Bp_Barn.Bp_Barn]
+[2024.12.16-18.56.11:094][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Map_Assets/Barn/Bp_Barn]
+[2024.12.16-18.56.11:094][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_Assets/Barn/Bp_Barn" FILE="../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Map/Map_Assets/Barn/Bp_Barn.uasset" SILENT=true
+[2024.12.16-18.56.11:106][ 56]LogSavePackage: Moving output files for package: /Game/Map/Map_Assets/Barn/Bp_Barn
+[2024.12.16-18.56.11:106][ 56]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_Barn1DE7939641EAA86BE98BFEB6D5AD1D89.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Map/Map_Assets/Barn/Bp_Barn.uasset'
+[2024.12.16-18.56.11:228][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 229.477 ms (total: 6.15 sec)
+[2024.12.16-18.56.11:300][ 56]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-18.56.11:300][ 56]LogContentValidation: Enabled validators:
+[2024.12.16-18.56.11:300][ 56]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-18.56.11:300][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-18.56.11:300][ 56]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-18.56.11:300][ 56]LogContentValidation: Display: Validating asset /Game/Map/Map_Assets/Barn/Bp_Barn.Bp_Barn
+[2024.12.16-18.56.11:300][ 56]AssetCheck: /Game/Map/Map_Assets/Barn/Bp_Barn Validating asset
+[2024.12.16-18.56.13:691][144]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.16-18.56.13:769][144]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.16-18.56.13:769][144]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.16-18.56.13:773][144]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.019 ms (total: 70.827 ms)
+[2024.12.16-18.56.13:850][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.16-18.56.13:850][144]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-18.56.13:879][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028754s)
+[2024.12.16-18.56.13:879][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.028823s)
+[2024.12.16-18.56.13:899][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.16-18.56.13:902][144]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.16-18.56.13:903][144]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.16-18.56.13:903][144]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.16-18.56.13:903][144]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.16-18.56.13:903][144]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.16-18.56.13:903][144]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.16-18.56.13:907][144]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.16-18.56.13:907][144]LogWorldPartition: Display: WorldPartition initialize took 4.040 ms (total: 348.346 ms)
+[2024.12.16-18.56.13:907][144]LogPlayLevel: PIE: World Init took: (0.005333s)
+[2024.12.16-18.56.14:428][144]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.12.16-18.56.14:428][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.16-18.56.14:428][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.16-18.56.14:428][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.16-18.56.14:428][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.16-18.56.14:428][144]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.16-18.56.14:428][144]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.16-18.56.14:428][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.16-18.56.14:429][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.16-18.56.14:429][144]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.16-18.56.14:429][144]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.16-18.56.14:429][144]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.16-18.56.14:433][144]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.16-18.56.14:465][144]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.16-18.56.14:466][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.16-18.56.14:466][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.16-18.56.14:466][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.16-18.56.14:466][144]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.12.16-18.56.14:466][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.12.16-18.56.14:468][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.12.16-18.56.14:468][144]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.12.16-18.56.14:468][144]LogInit: FAudioDevice initialized with ID 22.
+[2024.12.16-18.56.14:468][144]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2024.12.16-18.56.14:468][144]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.12.16-18.56.14:471][144]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.16-18.56.14:477][144]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.16-21.56.14
+[2024.12.16-18.56.14:478][144]LogWorld: Bringing up level for play took: 0.006929
+[2024.12.16-18.56.14:480][144]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.12.16-18.56.14:486][144]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.56.14:487][144]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.56.14:487][144]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.56.14:488][144]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.56.15:199][144]PIE: Server logged in
+[2024.12.16-18.56.15:200][144]PIE: Play in editor total start time 1.5 seconds.
+[2024.12.16-18.56.23:933][298]LogBlueprintUserMessages: [Health_component] 90.0\100.0
+[2024.12.16-18.56.24:137][302]LogBlueprintUserMessages: [Health_component] 80.0\100.0
+[2024.12.16-18.56.24:471][305]LogBlueprintUserMessages: [Health_component] 70.0\100.0
+[2024.12.16-18.56.24:689][310]LogBlueprintUserMessages: [Health_component] 60.0\100.0
+[2024.12.16-18.56.24:903][314]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-18.56.25:119][318]LogBlueprintUserMessages: [Health_component] 40.0\100.0
+[2024.12.16-18.56.25:344][322]LogBlueprintUserMessages: [Health_component] 30.0\100.0
+[2024.12.16-18.56.25:559][326]LogBlueprintUserMessages: [Health_component] 20.0\100.0
+[2024.12.16-18.56.26:014][332]LogBlueprintUserMessages: [Health_component] 10.0\100.0
+[2024.12.16-18.56.26:223][337]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Player Dead
+[2024.12.16-18.56.26:223][337]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-18.57.08:414][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.57.08:414][ 12]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-18.57.08:415][ 12]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-18.57.08:417][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.57.08:417][ 12]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.16-18.57.08:417][ 12]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.16-18.57.08:417][ 12]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.16-18.57.08:417][ 12]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.16-18.57.08:422][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.16-18.57.08:428][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.57.08:444][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.16-18.57.08:445][ 12]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.12.16-18.57.08:445][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.12.16-18.57.08:446][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.12.16-18.57.08:481][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.57.08:491][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.12.16-18.57.09:813][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.12.16-18.59.25:241][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.12.16-18.59.25:257][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_351.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-18.59.25:260][616]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703251478.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-18.59.25:262][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_153.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-18.59.25:292][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_355.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-18.59.25:295][616]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703251480.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-18.59.25:297][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_157.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-18.59.25:301][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-18.59.25:365][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner] ([2] browsable assets)...
+[2024.12.16-18.59.25:365][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner]
+[2024.12.16-18.59.25:371][616]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner
+[2024.12.16-18.59.25:372][616]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_ZombieSpawnerA8A3EE0F4C10503F0D6A228748AB562C.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/Bp_ZombieSpawner.uasset'
+[2024.12.16-18.59.25:419][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.868 ms (total: 6.27 sec)
+[2024.12.16-18.59.25:483][616]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-18.59.25:483][616]LogContentValidation: Enabled validators:
+[2024.12.16-18.59.25:483][616]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-18.59.25:483][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-18.59.25:483][616]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-18.59.25:483][616]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner.Bp_ZombieSpawner
+[2024.12.16-18.59.25:483][616]AssetCheck: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner Validating asset
+[2024.12.16-18.59.32:261][892]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.16-18.59.32:369][892]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.16-18.59.32:369][892]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.16-18.59.32:373][892]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.033 ms (total: 74.861 ms)
+[2024.12.16-18.59.32:396][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.16-18.59.32:396][892]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-18.59.32:425][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028017s)
+[2024.12.16-18.59.32:425][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.028102s)
+[2024.12.16-18.59.32:444][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.16-18.59.32:447][892]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.16-18.59.32:447][892]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.16-18.59.32:448][892]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.16-18.59.32:448][892]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.16-18.59.32:448][892]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.16-18.59.32:448][892]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.16-18.59.32:452][892]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.16-18.59.32:452][892]LogWorldPartition: Display: WorldPartition initialize took 3.908 ms (total: 352.254 ms)
+[2024.12.16-18.59.32:452][892]LogPlayLevel: PIE: World Init took: (0.005146s)
+[2024.12.16-18.59.33:287][892]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.12.16-18.59.33:287][892]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.16-18.59.33:287][892]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.16-18.59.33:288][892]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.16-18.59.33:288][892]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.16-18.59.33:288][892]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.16-18.59.33:288][892]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.16-18.59.33:288][892]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.16-18.59.33:288][892]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.16-18.59.33:288][892]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.16-18.59.33:288][892]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.16-18.59.33:288][892]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.16-18.59.33:290][892]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.16-18.59.33:321][892]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.16-18.59.33:321][892]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.16-18.59.33:321][892]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.16-18.59.33:321][892]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.16-18.59.33:321][892]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.12.16-18.59.33:321][892]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.12.16-18.59.33:323][892]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.12.16-18.59.33:323][892]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.12.16-18.59.33:323][892]LogInit: FAudioDevice initialized with ID 23.
+[2024.12.16-18.59.33:323][892]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonMap'.
+[2024.12.16-18.59.33:323][892]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.12.16-18.59.33:326][892]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.16-18.59.33:332][892]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.16-21.59.33
+[2024.12.16-18.59.33:333][892]LogWorld: Bringing up level for play took: 0.006980
+[2024.12.16-18.59.33:336][892]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.12.16-18.59.33:341][892]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.59.33:343][892]LogBlueprintUserMessages: [Bp_ZombieSpavner_GEN_VARIABLE_Bp_ZombieSpavner_C_CAT_UAID_0C9A3C08B6C2843902_1703251371] BP_MutantController_C
+[2024.12.16-18.59.33:343][892]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.59.33:343][892]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.59.33:343][892]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-18.59.33:889][892]PIE: Server logged in
+[2024.12.16-18.59.33:890][892]PIE: Play in editor total start time 1.621 seconds.
+[2024.12.16-18.59.43:331][977]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-18.59.43:447][979]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-18.59.43:557][981]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-18.59.43:665][983]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2853902_1536729891] Zombie Death
+[2024.12.16-18.59.43:665][983]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-18.59.45:717][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.59.45:717][ 21]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-18.59.45:717][ 21]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-18.59.45:719][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.59.45:719][ 21]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.16-18.59.45:719][ 21]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.16-18.59.45:719][ 21]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.16-18.59.45:719][ 21]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.16-18.59.45:725][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.16-18.59.45:730][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.59.45:747][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.16-18.59.45:747][ 21]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.12.16-18.59.45:748][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.12.16-18.59.45:749][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.12.16-18.59.45:770][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.59.45:776][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.12.16-18.59.46:979][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.12.16-19.00.49:583][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.16-19.00.49:589][259]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U6/VGMBNZ40JCAHAZMTHWHBOU_Auto2
+[2024.12.16-19.00.49:589][259]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/VGMBNZ40JCAHAZMTHWHBOU_Auto2DA459BB74F97B3787CF66386A0B923E1.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U6/VGMBNZ40JCAHAZMTHWHBOU_Auto2.uasset'
+[2024.12.16-19.00.49:590][259]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2024.12.16-19.00.49:590][259]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2024.12.16-19.00.49:590][259]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner] ([2] browsable assets)...
+[2024.12.16-19.00.49:590][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner]
+[2024.12.16-19.00.49:594][259]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner_Auto2
+[2024.12.16-19.00.49:594][259]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_ZombieSpawner_Auto2F26866BE422F8C67A1B85A95DD34C204.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner_Auto2.uasset'
+[2024.12.16-19.00.49:595][259]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.12.16-19.03.55:597][335]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_0C9A3C08B6C2813902_2018956391 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YM/ZYROAKZ3L845WIGQ9YCNW3.PackageMetaData in its package
+[2024.12.16-19.03.55:600][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.16-19.03.55:615][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_359.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.03.55:617][335]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703251482.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.03.55:619][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_161.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.03.55:705][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_363.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.03.55:708][335]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703251484.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.03.55:710][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_165.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.03.55:724][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-19.03.55:782][335]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint] ([2] browsable assets)...
+[2024.12.16-19.03.55:821][335]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint]
+[2024.12.16-19.03.55:821][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint]
+[2024.12.16-19.03.55:836][335]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint
+[2024.12.16-19.03.55:836][335]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BP_Zombie_Mutant_Blueprint7C4963694A6C2BB798035AAE11C6E3CD.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.uasset'
+[2024.12.16-19.03.55:929][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 205.847 ms (total: 6.48 sec)
+[2024.12.16-19.03.56:116][335]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-19.03.56:117][335]LogContentValidation: Enabled validators:
+[2024.12.16-19.03.56:117][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-19.03.56:117][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-19.03.56:117][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-19.03.56:117][335]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint.BP_Zombie_Mutant_Blueprint
+[2024.12.16-19.03.56:117][335]AssetCheck: /Game/Zombie_Mutant/blueprint/BP_Zombie_Mutant_Blueprint Validating asset
+[2024.12.16-19.03.56:182][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.12.16-19.03.57:807][386]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.16-19.03.57:873][386]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.16-19.03.57:873][386]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.16-19.03.57:878][386]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.123 ms (total: 78.985 ms)
+[2024.12.16-19.03.57:927][386]LogPlayLevel: [PlayLevel] Compiling Bp_ZombieSpawner before play...
+[2024.12.16-19.03.57:955][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_367.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.03.57:958][386]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703251486.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.03.57:960][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_169.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.03.57:974][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_371.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.03.57:977][386]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703251488.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.03.57:979][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_173.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.03.57:983][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-19.03.58:032][386]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner] ([2] browsable assets)...
+[2024.12.16-19.03.58:032][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner]
+[2024.12.16-19.03.58:037][386]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner
+[2024.12.16-19.03.58:037][386]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_ZombieSpawner7C6C3DFB44D584B505B73D9DED605481.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/Bp_ZombieSpawner.uasset'
+[2024.12.16-19.03.58:095][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.067 ms (total: 6.59 sec)
+[2024.12.16-19.03.58:114][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.12.16-19.03.58:118][386]LogPlayLevel: PlayLevel: Blueprint regeneration took 194 ms (1 blueprints)
+[2024.12.16-19.03.58:119][386]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-19.03.58:146][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026857s)
+[2024.12.16-19.03.58:146][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.026915s)
+[2024.12.16-19.03.58:160][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.16-19.03.58:161][386]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.16-19.03.58:162][386]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.16-19.03.58:163][386]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.16-19.03.58:163][386]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.16-19.03.58:163][386]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.16-19.03.58:163][386]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.16-19.03.58:166][386]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.16-19.03.58:166][386]LogWorldPartition: Display: WorldPartition initialize took 3.810 ms (total: 356.065 ms)
+[2024.12.16-19.03.58:166][386]LogPlayLevel: PIE: World Init took: (0.005296s)
+[2024.12.16-19.03.59:561][386]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.12.16-19.03.59:561][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.16-19.03.59:561][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.16-19.03.59:561][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.16-19.03.59:561][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.16-19.03.59:561][386]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.16-19.03.59:561][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.16-19.03.59:561][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.16-19.03.59:561][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.16-19.03.59:561][386]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.16-19.03.59:561][386]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.16-19.03.59:561][386]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.16-19.03.59:566][386]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.16-19.03.59:600][386]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.16-19.03.59:601][386]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.16-19.03.59:601][386]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.16-19.03.59:601][386]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.16-19.03.59:601][386]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.12.16-19.03.59:601][386]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.12.16-19.03.59:603][386]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.12.16-19.03.59:603][386]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.12.16-19.03.59:603][386]LogInit: FAudioDevice initialized with ID 24.
+[2024.12.16-19.03.59:603][386]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2024.12.16-19.03.59:603][386]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.12.16-19.03.59:606][386]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.16-19.03.59:613][386]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.16-22.03.59
+[2024.12.16-19.03.59:613][386]LogWorld: Bringing up level for play took: 0.007241
+[2024.12.16-19.03.59:616][386]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.12.16-19.03.59:622][386]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-19.03.59:624][386]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-19.03.59:624][386]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-19.03.59:624][386]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-19.04.00:276][386]PIE: Server logged in
+[2024.12.16-19.04.00:277][386]PIE: Play in editor total start time 2.461 seconds.
+[2024.12.16-19.04.00:326][387]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-19.04.00:326][387]LogContentValidation: Enabled validators:
+[2024.12.16-19.04.00:326][387]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-19.04.00:326][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-19.04.00:327][387]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-19.04.00:327][387]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner.Bp_ZombieSpawner
+[2024.12.16-19.04.00:327][387]AssetCheck: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner Validating asset
+[2024.12.16-19.04.07:809][466]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-19.04.08:113][471]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-19.04.08:257][473]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-19.04.08:377][475]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_0] Zombie Death
+[2024.12.16-19.04.08:377][475]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-19.04.09:461][494]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-19.04.09:797][500]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-19.04.09:907][502]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-19.04.10:022][504]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_UAID_0C9A3C08B6C2853902_1536729891] Zombie Death
+[2024.12.16-19.04.10:023][504]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-19.04.17:296][658]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-19.04.17:383][660]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-19.04.17:491][662]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-19.04.17:592][664]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_1] Zombie Death
+[2024.12.16-19.04.17:592][664]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-19.04.19:342][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-19.04.19:343][698]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-19.04.19:343][698]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-19.04.19:345][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-19.04.19:345][698]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.16-19.04.19:346][698]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.16-19.04.19:346][698]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.16-19.04.19:346][698]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.16-19.04.19:355][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.16-19.04.19:366][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-19.04.19:390][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-19.04.19:390][698]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.12.16-19.04.19:390][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.12.16-19.04.19:392][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.12.16-19.04.19:418][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.16-19.04.20:409][699]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.12.16-19.07.01:413][385]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.16-19.07.01:413][385]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.16-19.08.05:047][961]Cmd: DELETE
+[2024.12.16-19.08.05:048][961]Cmd: ACTOR DELETE
+[2024.12.16-19.08.05:053][961]LogEditorActor: Deleted Actor: BP_Zombie_Mutant_Blueprint_C
+[2024.12.16-19.08.05:077][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.16-19.08.05:081][961]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.12.16-19.08.25:442][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.12.16-19.08.25:449][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_1402.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:452][930]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118111371.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:452][930]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118111372.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:455][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3581.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:455][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3580.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:455][930]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118111373.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:455][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3579.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:455][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_1403.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:455][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_1401.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:482][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_1407.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:482][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_1408.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:482][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_1409.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:485][930]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118111374.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:485][930]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118111375.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:485][930]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118111376.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:489][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3585.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:489][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3586.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:489][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3587.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.25:493][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-19.08.25:532][930]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/lootCrate/CrateHolder] ([2] browsable assets)...
+[2024.12.16-19.08.25:532][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/lootCrate/CrateHolder]
+[2024.12.16-19.08.25:532][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lootCrate/CrateHolder" FILE="../../../../UE_projects/Deadland_walker/Deadland_walker/Content/lootCrate/CrateHolder.uasset" SILENT=true
+[2024.12.16-19.08.25:542][930]LogSavePackage: Moving output files for package: /Game/lootCrate/CrateHolder
+[2024.12.16-19.08.25:543][930]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/CrateHolder75E7862A46B130A3A17186BB4CE2B712.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/lootCrate/CrateHolder.uasset'
+[2024.12.16-19.08.25:593][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.704 ms (total: 6.69 sec)
+[2024.12.16-19.08.25:648][930]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-19.08.25:648][930]LogContentValidation: Enabled validators:
+[2024.12.16-19.08.25:648][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-19.08.25:648][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-19.08.25:648][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-19.08.25:648][930]LogContentValidation: Display: Validating asset /Game/lootCrate/CrateHolder.CrateHolder
+[2024.12.16-19.08.25:648][930]AssetCheck: /Game/lootCrate/CrateHolder Validating asset
+[2024.12.16-19.08.32:878][236]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2024.12.16-19.08.32:895][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_1413.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:895][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_1414.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:895][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_1415.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:899][236]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118111377.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:899][236]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118111378.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:899][236]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118111379.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:902][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3591.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:902][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3592.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:902][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3593.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:940][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_1419.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:940][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_1420.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:940][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_1421.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:943][236]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118111380.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:943][236]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118111381.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:943][236]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118111382.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:945][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3597.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:945][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3598.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:945][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3599.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-19.08.32:950][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-19.08.33:015][236]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/lootCrate/CrateHolder] ([2] browsable assets)...
+[2024.12.16-19.08.33:015][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/lootCrate/CrateHolder]
+[2024.12.16-19.08.33:015][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lootCrate/CrateHolder" FILE="../../../../UE_projects/Deadland_walker/Deadland_walker/Content/lootCrate/CrateHolder.uasset" SILENT=true
+[2024.12.16-19.08.33:025][236]LogSavePackage: Moving output files for package: /Game/lootCrate/CrateHolder
+[2024.12.16-19.08.33:025][236]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/CrateHolderBF627A904F24DDC40D68C8A76C3BD230.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/lootCrate/CrateHolder.uasset'
+[2024.12.16-19.08.33:075][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.430 ms (total: 6.81 sec)
+[2024.12.16-19.08.33:148][236]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-19.08.33:148][236]LogContentValidation: Enabled validators:
+[2024.12.16-19.08.33:148][236]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-19.08.33:148][236]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-19.08.33:148][236]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-19.08.33:148][236]LogContentValidation: Display: Validating asset /Game/lootCrate/CrateHolder.CrateHolder
+[2024.12.16-19.08.33:149][236]AssetCheck: /Game/lootCrate/CrateHolder Validating asset
