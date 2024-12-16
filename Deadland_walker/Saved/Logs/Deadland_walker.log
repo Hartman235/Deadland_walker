@@ -22342,3 +22342,801 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.12.16-21.09.48:800][677]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
 [2024.12.16-21.10.38:929][855]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
 [2024.12.16-21.10.38:929][855]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.16-21.15.37:748][525]LogSlate: External Image Picker: DecompressImage failed
+[2024.12.16-21.15.42:612][705]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.12.16-21.15.42:612][705]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.12.16-21.16.01:865][684]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.16-21.16.01:878][684]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.16-21.16.33:508][328]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 430328
+[2024.12.16-21.16.33:508][328]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.12.16-21.16.39:292][618]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.12.16-21.16.39:296][618]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_33'.
+[2024.12.16-21.17.04:835][544]LogSlate: Window 'Create New Blueprint' being destroyed
+[2024.12.16-21.17.30:401][175]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.16-21.17.30:424][175]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.16-21.17.30:439][175]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.16-21.17.30:465][176]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.16-21.17.33:528][238]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1688)].
+[2024.12.16-21.17.33:528][238]LogContentBrowser: Attempting asset rename: NewBlueprint -> B
+[2024.12.16-21.17.33:543][238]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.16-21.17.33:581][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.12.16-21.17.33:591][238]LogWorldPartition: Can't find class descriptor '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C' for saving '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C'
+[2024.12.16-21.17.33:591][238]LogWorldPartition: Can't find class descriptor '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C' for saving '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C'
+[2024.12.16-21.17.33:593][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto7
+[2024.12.16-21.17.33:593][238]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/ThirdPersonMap_Auto7DA46326D44B4B29C31CA6AB03A5C410E.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto7.umap'
+[2024.12.16-21.17.33:607][238]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto7.umap is in the /Temp path, will not scan.
+[2024.12.16-21.17.33:625][238]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto7 is in the /Temp path, will not scan.
+[2024.12.16-21.17.33:625][238]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto7 is in the /Temp path, will not scan.
+[2024.12.16-21.17.33:626][238]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.074
+[2024.12.16-21.17.33:626][238]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2024.12.16-21.17.50:707][862]LogContentBrowser: Attempting asset rename: B -> Bp_GameState
+[2024.12.16-21.17.50:867][862]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bp_GameState.Bp_GameState:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/B.PackageMetaData'
+[2024.12.16-21.17.50:867][862]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bp_GameState.SKEL_Bp_GameState_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/B.PackageMetaData'
+[2024.12.16-21.17.50:867][862]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bp_GameState.SKEL_Bp_GameState_C' ref from Metadata '/Game/ThirdPerson/Blueprints/B.PackageMetaData'
+[2024.12.16-21.17.50:867][862]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bp_GameState.Bp_GameState_C' ref from Metadata '/Game/ThirdPerson/Blueprints/B.PackageMetaData'
+[2024.12.16-21.17.50:867][862]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bp_GameState.Bp_GameState:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/B.PackageMetaData'
+[2024.12.16-21.17.50:867][862]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bp_GameState.Bp_GameState:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Blueprints/B.PackageMetaData'
+[2024.12.16-21.17.50:894][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-21.17.50:954][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/Bp_GameState] ([2] browsable assets)...
+[2024.12.16-21.17.50:954][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Bp_GameState]
+[2024.12.16-21.17.50:954][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Bp_GameState" FILE="../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Blueprints/Bp_GameState.uasset" SILENT=true
+[2024.12.16-21.17.50:959][862]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Bp_GameState
+[2024.12.16-21.17.50:959][862]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_GameStateDA8CDCA048FE8F71FAAFECA3AA05902F.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Blueprints/Bp_GameState.uasset'
+[2024.12.16-21.17.51:040][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.814 ms (total: 23.3 sec)
+[2024.12.16-21.17.51:132][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.12.16-21.17.51:159][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.16-21.17.51:184][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.12.16-21.17.51:250][862]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-21.17.51:251][862]LogContentValidation: Enabled validators:
+[2024.12.16-21.17.51:251][862]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-21.17.51:251][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-21.17.51:251][862]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-21.17.51:251][862]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/Bp_GameState.Bp_GameState
+[2024.12.16-21.17.51:251][862]AssetCheck: /Game/ThirdPerson/Blueprints/Bp_GameState Validating asset
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: ================================================
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Total job queries 368, among them cache hits 107 (29.08%), DDC hits 223 (60.60%), Duplicates 6 (1.63%)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Tracking 255 distinct input hashes that result in 211 distinct outputs (82.75%)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: RAM used: 1.15 MiB of 819.20 MiB budget. Usage: 0.14%
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Shaders Compiled: 32
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Jobs assigned 32, completed 32 (100%)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Average time worker was idle: 1644.39 s
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Time job spent in pending queue: average 1.57 s, longest 11.72 s
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Job execution time: average 2.67 s, max 13.76 s
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Job life time (pending + execution): average 4.25 s, max 15.27
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Shader code size: average 7.18 KiB, min 1.402 KiB, max 41.773 KiB
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.10 s
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Average processing rate: 1.14 jobs/sec
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Total thread time: 60.516 s
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Total thread preprocess time: 6.446 s
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Percentage time preprocessing: 10.65%
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Effective parallelization: 2.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 7.10 sec, max 11.03 sec, min 3.46 sec)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    5 times, average 1.27 sec, max 1.60 sec, min 0.64 sec)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.01 sec, max 1.27 sec, min 0.85 sec)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.86 sec, max 1.01 sec, min 0.77 sec)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.84 sec, max 1.01 sec, min 0.74 sec)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display:                                             FDebugViewModePS - 58.64% of total time (compiled    5 times, average 7.10 sec, max 11.03 sec, min 3.46 sec)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.39% of total time (compiled    8 times, average 1.01 sec, max 1.27 sec, min 0.85 sec)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display:                                             FDebugViewModeVS - 10.53% of total time (compiled    5 times, average 1.27 sec, max 1.60 sec, min 0.64 sec)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.99% of total time (compiled    8 times, average 0.68 sec, max 0.97 sec, min 0.58 sec)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.25% of total time (compiled    3 times, average 0.86 sec, max 1.01 sec, min 0.77 sec)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: === Material stats ===
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Materials Translated:    142
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Material Translation Only: 0.04 s (23%)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: Material Cache Hits: 23 (16%)
+[2024.12.16-21.18.04:905][270]LogShaderCompilers: Display: ================================================
+[2024.12.16-21.18.05:969][288]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Bp_GameState.Bp_GameState
+[2024.12.16-21.18.05:975][288]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_34'.
+[2024.12.16-21.22.36:657][531]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2265.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.36:661][531]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253643.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.36:663][531]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253644.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.36:667][531]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253645.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.36:671][531]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253646.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.36:674][531]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253647.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.36:678][531]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253648.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.36:680][531]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_755.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.38:058][577]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2267.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.38:062][577]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253649.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.38:066][577]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253650.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.38:069][577]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253651.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.38:112][577]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253652.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.38:116][577]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253653.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.38:119][577]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253654.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.22.38:122][577]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_757.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.23.12:188][161]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2269.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.23.12:193][161]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253655.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.23.12:196][161]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253656.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.23.12:200][161]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253657.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.23.12:204][161]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253658.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.23.12:208][161]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253659.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.23.12:212][161]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253660.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.23.12:214][161]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_759.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.33:714][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2271.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.33:718][609]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253661.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.33:723][609]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253662.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.33:726][609]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253663.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.33:729][609]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253664.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.33:732][609]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253665.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.33:736][609]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253666.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.33:738][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_761.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.35:094][653]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2273.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.35:098][653]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253667.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.35:110][653]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253668.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.35:117][653]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253669.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.35:125][653]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253670.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.35:134][653]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253671.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.35:139][653]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253672.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.35:142][653]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_763.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.36:991][726]LogEditorTransaction: Undo Rename Node
+[2024.12.16-21.25.36:998][726]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2275.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.37:002][726]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253673.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.37:007][726]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253674.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.37:010][726]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253675.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.37:014][726]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253676.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.37:017][726]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253677.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.37:021][726]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253678.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.37:024][726]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_765.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.38:463][734]LogEditorTransaction: Undo Add Node
+[2024.12.16-21.25.38:472][734]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2277.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.38:476][734]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253679.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.38:480][734]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253680.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.38:483][734]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253681.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.38:486][734]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253682.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.38:490][734]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253683.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.38:494][734]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253684.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.38:496][734]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_767.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.39:870][748]LogEditorTransaction: Undo Paste clipboard contents
+[2024.12.16-21.25.39:880][748]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2279.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.39:883][748]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253685.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.39:887][748]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253686.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.39:891][748]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253687.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.39:894][748]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253688.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.39:898][748]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253689.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.39:902][748]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253690.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.39:905][748]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_769.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.41:647][772]LogEditorTransaction: Undo Delete current selection
+[2024.12.16-21.25.41:659][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2281.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.41:665][772]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253691.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.41:669][772]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253692.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.41:673][772]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253693.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.41:677][772]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253694.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.41:680][772]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253695.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.41:683][772]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253696.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.25.41:686][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_771.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.16:546][323]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2283.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.16:550][323]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253697.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.16:554][323]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253698.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.16:557][323]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253699.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.16:560][323]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253700.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.16:564][323]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253701.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.16:567][323]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253702.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.16:569][323]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_773.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.26:003][750]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2285.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.26:007][750]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253703.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.26:011][750]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253704.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.26:014][750]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253705.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.26:017][750]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253706.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.26:021][750]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253707.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.26:024][750]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253708.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.26:026][750]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_775.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:584][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.16-21.27.31:624][  0]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2289.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:627][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253715.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:631][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253716.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:634][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253717.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:637][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253718.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:641][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253719.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:644][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253720.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:646][  0]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_779.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:702][  0]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2293.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:705][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253727.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:709][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253728.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:712][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253729.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:714][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253730.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:717][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253731.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:721][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253732.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:722][  0]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_783.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.31:727][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-21.27.31:785][  0]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner] ([2] browsable assets)...
+[2024.12.16-21.27.31:785][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner]
+[2024.12.16-21.27.31:792][  0]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner
+[2024.12.16-21.27.31:793][  0]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_ZombieSpawner49A3244643DFF81FFC0AF9BF49AEB676.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/Bp_ZombieSpawner.uasset'
+[2024.12.16-21.27.31:859][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.698 ms (total: 23.5 sec)
+[2024.12.16-21.27.31:918][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-21.27.31:918][  0]LogContentValidation: Enabled validators:
+[2024.12.16-21.27.31:918][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-21.27.31:918][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-21.27.31:918][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-21.27.31:918][  0]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner.Bp_ZombieSpawner
+[2024.12.16-21.27.31:918][  0]AssetCheck: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawner Validating asset
+[2024.12.16-21.27.40:278][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.12.16-21.27.40:291][362]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_785.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:296][362]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253733.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:300][362]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253734.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:305][362]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253735.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:309][362]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253736.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:313][362]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253737.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:317][362]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253738.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:320][362]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2295.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:365][362]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_787.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:369][362]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253739.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:373][362]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253740.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:376][362]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253741.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:380][362]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253742.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:383][362]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253743.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:387][362]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253744.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:390][362]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2297.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.27.40:397][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-21.27.40:451][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/Bp_GameState] ([2] browsable assets)...
+[2024.12.16-21.27.40:451][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Bp_GameState]
+[2024.12.16-21.27.40:451][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Bp_GameState" FILE="../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Blueprints/Bp_GameState.uasset" SILENT=true
+[2024.12.16-21.27.40:457][362]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Bp_GameState
+[2024.12.16-21.27.40:457][362]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_GameState6788918C46D4458B22DF96BE1844531A.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Blueprints/Bp_GameState.uasset'
+[2024.12.16-21.27.40:496][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.540 ms (total: 23.6 sec)
+[2024.12.16-21.27.40:552][362]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-21.27.40:552][362]LogContentValidation: Enabled validators:
+[2024.12.16-21.27.40:552][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-21.27.40:552][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-21.27.40:552][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-21.27.40:552][362]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/Bp_GameState.Bp_GameState
+[2024.12.16-21.27.40:552][362]AssetCheck: /Game/ThirdPerson/Blueprints/Bp_GameState Validating asset
+[2024.12.16-21.27.46:635][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.12.16-21.27.46:648][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-21.27.46:703][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2024.12.16-21.27.46:703][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2024.12.16-21.27.46:706][622]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.12.16-21.27.46:707][622]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BP_ThirdPersonGameModeA65C219D466B542DAD27E28F9E7D478B.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.12.16-21.27.46:781][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.706 ms (total: 23.7 sec)
+[2024.12.16-21.27.46:850][622]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-21.27.46:850][622]LogContentValidation: Enabled validators:
+[2024.12.16-21.27.46:850][622]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-21.27.46:850][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-21.27.46:850][622]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-21.27.46:850][622]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.12.16-21.27.46:851][622]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2024.12.16-21.27.49:200][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.12.16-21.27.52:058][720]LogSlate: Window 'Save Content' being destroyed
+[2024.12.16-21.27.54:675][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.16-21.27.54:764][772]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.16-21.27.54:764][772]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.16-21.27.54:768][772]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.456 ms (total: 333.827 ms)
+[2024.12.16-21.27.54:830][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.16-21.27.54:830][772]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-21.27.54:861][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030363s)
+[2024.12.16-21.27.54:861][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.030442s)
+[2024.12.16-21.27.54:879][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.16-21.27.54:881][772]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.16-21.27.54:882][772]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.16-21.27.54:882][772]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.16-21.27.54:882][772]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.16-21.27.54:882][772]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.16-21.27.54:882][772]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.16-21.27.54:887][772]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.16-21.27.54:887][772]LogWorldPartition: Display: WorldPartition initialize took 4.401 ms (total: 657.908 ms)
+[2024.12.16-21.27.54:887][772]LogPlayLevel: PIE: World Init took: (0.005776s)
+[2024.12.16-21.27.55:496][772]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2024.12.16-21.27.55:496][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.16-21.27.55:496][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.16-21.27.55:496][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.16-21.27.55:496][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.16-21.27.55:496][772]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.16-21.27.55:496][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.16-21.27.55:496][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.16-21.27.55:496][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.16-21.27.55:496][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.16-21.27.55:496][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.16-21.27.55:496][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.16-21.27.55:498][772]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.16-21.27.55:521][772]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Redmi AirDots 2 Stereo)
+[2024.12.16-21.27.55:521][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.16-21.27.55:521][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.16-21.27.55:521][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.16-21.27.55:522][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=94
+[2024.12.16-21.27.55:522][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=94
+[2024.12.16-21.27.55:524][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=94
+[2024.12.16-21.27.55:524][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=94
+[2024.12.16-21.27.55:524][772]LogInit: FAudioDevice initialized with ID 94.
+[2024.12.16-21.27.55:524][772]LogAudio: Display: Audio Device (ID: 94) registered with world 'ThirdPersonMap'.
+[2024.12.16-21.27.55:524][772]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 94
+[2024.12.16-21.27.55:527][772]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.16-21.27.55:533][772]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.17-00.27.55
+[2024.12.16-21.27.55:533][772]LogWorld: Bringing up level for play took: 0.005839
+[2024.12.16-21.27.55:537][772]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2024.12.16-21.27.55:544][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:546][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:547][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:547][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:549][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:549][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:550][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:552][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:552][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:552][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:554][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:554][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:554][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:556][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:556][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:557][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:559][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:559][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.55:559][772]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.27.56:302][772]PIE: Server logged in
+[2024.12.16-21.27.56:303][772]PIE: Play in editor total start time 1.619 seconds.
+[2024.12.16-21.28.01:146][862]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-21.28.01:354][866]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-21.28.01:459][868]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-21.28.01:568][870]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_3] Zombie Death
+[2024.12.16-21.28.01:568][870]LogBlueprintUserMessages: [Bp_GameState_C_0] 1
+[2024.12.16-21.28.01:568][870]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-21.28.03:050][897]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-21.28.03:102][898]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-21.28.03:224][900]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-21.28.03:355][902]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_4] Zombie Death
+[2024.12.16-21.28.03:355][902]LogBlueprintUserMessages: [Bp_GameState_C_0] 2
+[2024.12.16-21.28.03:355][902]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-21.28.06:166][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-21.28.06:167][943]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-21.28.06:168][943]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-21.28.06:171][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-21.28.06:172][943]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.16-21.28.06:172][943]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.16-21.28.06:172][943]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.16-21.28.06:172][943]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.16-21.28.06:180][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.16-21.28.06:189][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-21.28.06:218][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-21.28.06:219][943]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 94
+[2024.12.16-21.28.06:219][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2024.12.16-21.28.06:221][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2024.12.16-21.28.06:232][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.16-21.28.06:995][944]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2024.12.16-21.28.16:933][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.16-21.28.16:940][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_789.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.16:944][357]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253745.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.16:947][357]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253746.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.16:951][357]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253747.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.16:955][357]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253748.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.16:959][357]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253749.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.16:962][357]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253750.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.16:965][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2299.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.16:988][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_791.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.16:993][357]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253751.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.16:996][357]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253752.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.17:000][357]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253753.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.17:003][357]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253754.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.17:007][357]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253755.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.17:010][357]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_1703253756.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.17:013][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_Bp_ZombieSpawner_C_CHILDACTOR_2301.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.28.17:020][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-21.28.17:082][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/Bp_GameState] ([2] browsable assets)...
+[2024.12.16-21.28.17:083][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Bp_GameState]
+[2024.12.16-21.28.17:083][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Bp_GameState" FILE="../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Blueprints/Bp_GameState.uasset" SILENT=true
+[2024.12.16-21.28.17:087][357]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Bp_GameState
+[2024.12.16-21.28.17:087][357]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_GameState900C632B4C9C1E70921184BF05CA325D.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Blueprints/Bp_GameState.uasset'
+[2024.12.16-21.28.17:136][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.862 ms (total: 23.8 sec)
+[2024.12.16-21.28.17:201][357]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-21.28.17:201][357]LogContentValidation: Enabled validators:
+[2024.12.16-21.28.17:201][357]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-21.28.17:201][357]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-21.28.17:201][357]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-21.28.17:201][357]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/Bp_GameState.Bp_GameState
+[2024.12.16-21.28.17:201][357]AssetCheck: /Game/ThirdPerson/Blueprints/Bp_GameState Validating asset
+[2024.12.16-21.28.42:772][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.16-21.28.42:787][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto8
+[2024.12.16-21.28.42:787][461]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/ThirdPersonMap_Auto81FC4DED84ABFAA0F9F3C25BB4664D790.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto8.umap'
+[2024.12.16-21.28.42:811][461]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto8.umap is in the /Temp path, will not scan.
+[2024.12.16-21.28.42:811][461]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto8 is in the /Temp path, will not scan.
+[2024.12.16-21.28.42:811][461]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto8 is in the /Temp path, will not scan.
+[2024.12.16-21.28.42:815][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U6/VGMBNZ40JCAHAZMTHWHBOU_Auto8
+[2024.12.16-21.28.42:815][461]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/VGMBNZ40JCAHAZMTHWHBOU_Auto83DA1A8534417B4FDEA785FAAFC445613.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U6/VGMBNZ40JCAHAZMTHWHBOU_Auto8.uasset'
+[2024.12.16-21.28.42:818][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PN/BLPC1ABC1AZKH7KQEN3M9N_Auto8
+[2024.12.16-21.28.42:818][461]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BLPC1ABC1AZKH7KQEN3M9N_Auto8C9463C7D44CF76443683D8BBCC6812DE.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PN/BLPC1ABC1AZKH7KQEN3M9N_Auto8.uasset'
+[2024.12.16-21.28.42:846][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OE/BAQXEIE23TNEUT77VYATEY_Auto8
+[2024.12.16-21.28.42:846][461]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BAQXEIE23TNEUT77VYATEY_Auto8489584DE4EE74303E704668AB92FFA56.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OE/BAQXEIE23TNEUT77VYATEY_Auto8.uasset'
+[2024.12.16-21.28.42:894][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GW/4RZJYI4IFDBEKFB5NYQWG1_Auto8
+[2024.12.16-21.28.42:894][461]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/4RZJYI4IFDBEKFB5NYQWG1_Auto8B07F13C344382C81D07343AC830EB97E.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GW/4RZJYI4IFDBEKFB5NYQWG1_Auto8.uasset'
+[2024.12.16-21.28.42:900][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YR/YDC9K9YC26G1YKL9M65HVD_Auto8
+[2024.12.16-21.28.42:900][461]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/YDC9K9YC26G1YKL9M65HVD_Auto87E4978AF41E96CF24EA849AFC791EE87.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YR/YDC9K9YC26G1YKL9M65HVD_Auto8.uasset'
+[2024.12.16-21.28.42:923][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/XU6YSJTHSG77L4UDLAFUBD_Auto8
+[2024.12.16-21.28.42:923][461]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/XU6YSJTHSG77L4UDLAFUBD_Auto89D53B29D43ECF71C909915899C99D6FA.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/XU6YSJTHSG77L4UDLAFUBD_Auto8.uasset'
+[2024.12.16-21.28.42:978][461]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.230
+[2024.12.16-21.28.42:979][461]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.230
+[2024.12.16-21.28.54:626][497]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.16-21.28.54:626][497]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.16-21.30.24:068][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.12.16-21.30.24:137][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-21.30.24:183][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent] ([2] browsable assets)...
+[2024.12.16-21.30.24:183][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent]
+[2024.12.16-21.30.24:244][314]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent
+[2024.12.16-21.30.24:244][314]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_ZombieSpawnerComponentE4D5793E4369CBB0FBE9A6BB8F9268C7.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent.uasset'
+[2024.12.16-21.30.24:322][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.812 ms (total: 24.0 sec)
+[2024.12.16-21.30.24:433][314]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-21.30.24:433][314]LogContentValidation: Enabled validators:
+[2024.12.16-21.30.24:433][314]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-21.30.24:433][314]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-21.30.24:433][314]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-21.30.24:433][314]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent.Bp_ZombieSpawnerComponent
+[2024.12.16-21.30.24:433][314]AssetCheck: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent Validating asset
+[2024.12.16-21.31.29:182][  9]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.12.16-21.31.29:182][  9]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.12.16-21.32.28:586][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.16-21.32.28:679][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-21.32.28:736][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent] ([2] browsable assets)...
+[2024.12.16-21.32.28:736][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent]
+[2024.12.16-21.32.28:745][736]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent
+[2024.12.16-21.32.28:745][736]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_ZombieSpawnerComponent4C856D464F0098EFF5ED619137F578DD.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent.uasset'
+[2024.12.16-21.32.28:821][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.074 ms (total: 24.1 sec)
+[2024.12.16-21.32.28:884][736]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-21.32.28:884][736]LogContentValidation: Enabled validators:
+[2024.12.16-21.32.28:884][736]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-21.32.28:884][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-21.32.28:884][736]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-21.32.28:884][736]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent.Bp_ZombieSpawnerComponent
+[2024.12.16-21.32.28:884][736]AssetCheck: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent Validating asset
+[2024.12.16-21.34.22:131][455]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.16-21.34.22:131][455]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.16-21.34.26:473][613]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.12.16-21.34.26:474][613]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.12.16-21.36.27:589][903]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.16-21.36.27:590][903]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.16-21.36.32:956][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.16-21.36.33:065][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-21.36.33:134][  2]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent] ([2] browsable assets)...
+[2024.12.16-21.36.33:134][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent]
+[2024.12.16-21.36.33:145][  2]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent
+[2024.12.16-21.36.33:145][  2]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_ZombieSpawnerComponent10C1428B4DAE9231A31B04ACA18B21A6.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent.uasset'
+[2024.12.16-21.36.33:193][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.115 ms (total: 24.3 sec)
+[2024.12.16-21.36.33:250][  2]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-21.36.33:250][  2]LogContentValidation: Enabled validators:
+[2024.12.16-21.36.33:250][  2]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-21.36.33:250][  2]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-21.36.33:250][  2]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-21.36.33:250][  2]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent.Bp_ZombieSpawnerComponent
+[2024.12.16-21.36.33:250][  2]AssetCheck: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent Validating asset
+[2024.12.16-21.36.36:640][ 98]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.16-21.36.36:741][ 98]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.16-21.36.36:742][ 98]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.16-21.36.36:746][ 98]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.573 ms (total: 338.400 ms)
+[2024.12.16-21.36.36:797][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.16-21.36.36:797][ 98]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-21.36.36:836][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038273s)
+[2024.12.16-21.36.36:836][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.038325s)
+[2024.12.16-21.36.36:860][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.12.16-21.36.36:864][ 98]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.16-21.36.36:865][ 98]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.16-21.36.36:865][ 98]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.16-21.36.36:865][ 98]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.16-21.36.36:865][ 98]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.16-21.36.36:865][ 98]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.16-21.36.36:869][ 98]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.16-21.36.36:870][ 98]LogWorldPartition: Display: WorldPartition initialize took 4.251 ms (total: 662.159 ms)
+[2024.12.16-21.36.36:870][ 98]LogPlayLevel: PIE: World Init took: (0.005892s)
+[2024.12.16-21.36.37:947][ 98]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2024.12.16-21.36.37:947][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.16-21.36.37:947][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.16-21.36.37:947][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.16-21.36.37:947][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.16-21.36.37:947][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.16-21.36.37:947][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.16-21.36.37:947][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.16-21.36.37:947][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.16-21.36.37:947][ 98]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.16-21.36.37:948][ 98]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.16-21.36.37:948][ 98]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.16-21.36.37:951][ 98]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.16-21.36.37:966][ 98]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Redmi AirDots 2 Stereo)
+[2024.12.16-21.36.37:966][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.16-21.36.37:967][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.16-21.36.37:967][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.16-21.36.37:967][ 98]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=95
+[2024.12.16-21.36.37:967][ 98]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=95
+[2024.12.16-21.36.37:969][ 98]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=95
+[2024.12.16-21.36.37:969][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=95
+[2024.12.16-21.36.37:969][ 98]LogInit: FAudioDevice initialized with ID 95.
+[2024.12.16-21.36.37:969][ 98]LogAudio: Display: Audio Device (ID: 95) registered with world 'ThirdPersonMap'.
+[2024.12.16-21.36.37:969][ 98]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 95
+[2024.12.16-21.36.37:972][ 98]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.16-21.36.37:977][ 98]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.17-00.36.37
+[2024.12.16-21.36.37:978][ 98]LogWorld: Bringing up level for play took: 0.005957
+[2024.12.16-21.36.37:980][ 98]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2024.12.16-21.36.37:987][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:989][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:989][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:990][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:992][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:992][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:992][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:994][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:994][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:994][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:996][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:996][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:997][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:999][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:999][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.37:999][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.38:001][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.38:001][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.38:002][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.36.38:849][ 98]PIE: Server logged in
+[2024.12.16-21.36.38:850][ 98]PIE: Play in editor total start time 2.202 seconds.
+[2024.12.16-21.36.45:858][172]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-21.36.46:020][174]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-21.36.46:116][176]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-21.36.46:253][179]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_4] Zombie Death
+[2024.12.16-21.36.46:253][179]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-21.36.48:562][220]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-21.36.49:228][231]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-21.36.49:360][233]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-21.36.49:607][237]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_3] Zombie Death
+[2024.12.16-21.36.49:607][237]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-21.36.55:674][364]LogBlueprintUserMessages: [Health_component] 75.0\100.0
+[2024.12.16-21.36.55:680][364]LogCharacterMovement: BP_Zombie_Mutant_Blueprint_C_7 is stuck and failed to move! Velocity: X=486.02 Y=-117.43 Z=0.00 Location: X=1546.20 Y=2858.55 Z=106.26 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:11.934 Actor:BP_Zombie_Mutant_Blueprint_C_5 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2024.12.16-21.36.55:770][366]LogBlueprintUserMessages: [Health_component] 50.0\100.0
+[2024.12.16-21.36.56:187][374]LogBlueprintUserMessages: [Health_component] 25.0\100.0
+[2024.12.16-21.36.56:297][376]LogBlueprintUserMessages: [BP_Zombie_Mutant_Blueprint_C_10] Zombie Death
+[2024.12.16-21.36.56:297][376]LogBlueprintUserMessages: [Health_component] 0.0\100.0
+[2024.12.16-21.36.59:487][435]LogCharacterMovement: BP_Zombie_Mutant_Blueprint_C_7 is stuck and failed to move! Velocity: X=56.85 Y=-13.63 Z=0.00 Location: X=1556.88 Y=2855.46 Z=105.89 Normal: X=-0.89 Y=-0.46 Z=0.00 PenetrationDepth:6.782 Actor:BP_Zombie_Mutant_Blueprint_C_5 Component:CharacterMesh0 BoneName:hand_r (2 other events since notify)
+[2024.12.16-21.36.59:738][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-21.36.59:738][438]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-21.36.59:739][438]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-21.36.59:743][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-21.36.59:743][438]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.16-21.36.59:743][438]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.16-21.36.59:743][438]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.16-21.36.59:743][438]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.16-21.36.59:754][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.16-21.36.59:768][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-21.36.59:796][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.16-21.36.59:797][438]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 95
+[2024.12.16-21.36.59:797][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2024.12.16-21.36.59:799][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2024.12.16-21.36.59:803][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-21.36.59:811][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.16-21.37.00:943][439]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2024.12.16-21.37.18:417][223]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.12.16-21.37.18:417][223]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.12.16-21.37.42:818][495]LogEditorTransaction: Undo Delete current selection
+[2024.12.16-21.37.43:672][503]LogEditorTransaction: Undo Add Node
+[2024.12.16-21.38.12:632][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.16-21.38.12:786][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-21.38.12:836][832]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent] ([2] browsable assets)...
+[2024.12.16-21.38.12:836][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent]
+[2024.12.16-21.38.12:867][832]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent
+[2024.12.16-21.38.12:868][832]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_ZombieSpawnerComponentD014FE6A4AF49B5DCA6FFF83FF58441C.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent.uasset'
+[2024.12.16-21.38.12:913][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.867 ms (total: 24.4 sec)
+[2024.12.16-21.38.12:964][832]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-21.38.12:964][832]LogContentValidation: Enabled validators:
+[2024.12.16-21.38.12:964][832]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-21.38.12:964][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-21.38.12:964][832]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-21.38.12:964][832]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent.Bp_ZombieSpawnerComponent
+[2024.12.16-21.38.12:964][832]AssetCheck: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent Validating asset
+[2024.12.16-21.38.15:894][897]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.16-21.38.15:942][897]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.16-21.38.15:942][897]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.16-21.38.15:945][897]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.506 ms (total: 341.907 ms)
+[2024.12.16-21.38.15:974][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.16-21.38.15:974][897]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-21.38.16:002][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028112s)
+[2024.12.16-21.38.16:002][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.028176s)
+[2024.12.16-21.38.16:021][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.12.16-21.38.16:025][897]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.16-21.38.16:026][897]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2024.12.16-21.38.16:026][897]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.16-21.38.16:026][897]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.16-21.38.16:026][897]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.16-21.38.16:026][897]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.16-21.38.16:031][897]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.16-21.38.16:031][897]LogWorldPartition: Display: WorldPartition initialize took 4.477 ms (total: 666.637 ms)
+[2024.12.16-21.38.16:031][897]LogPlayLevel: PIE: World Init took: (0.005772s)
+[2024.12.16-21.38.16:764][897]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2024.12.16-21.38.16:764][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.16-21.38.16:764][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.16-21.38.16:764][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.16-21.38.16:764][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.16-21.38.16:764][897]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.16-21.38.16:764][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.16-21.38.16:764][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.16-21.38.16:764][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.16-21.38.16:764][897]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.16-21.38.16:764][897]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.16-21.38.16:764][897]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.16-21.38.16:767][897]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.16-21.38.16:781][897]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Redmi AirDots 2 Stereo)
+[2024.12.16-21.38.16:781][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.16-21.38.16:781][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.16-21.38.16:781][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.16-21.38.16:782][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=96
+[2024.12.16-21.38.16:782][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=96
+[2024.12.16-21.38.16:783][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=96
+[2024.12.16-21.38.16:784][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=96
+[2024.12.16-21.38.16:784][897]LogInit: FAudioDevice initialized with ID 96.
+[2024.12.16-21.38.16:784][897]LogAudio: Display: Audio Device (ID: 96) registered with world 'ThirdPersonMap'.
+[2024.12.16-21.38.16:784][897]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 96
+[2024.12.16-21.38.16:787][897]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.16-21.38.16:793][897]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.17-00.38.16
+[2024.12.16-21.38.16:793][897]LogWorld: Bringing up level for play took: 0.006460
+[2024.12.16-21.38.16:796][897]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2024.12.16-21.38.16:802][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:804][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:804][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:804][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:807][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:807][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:807][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:809][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:809][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:810][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:812][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:812][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:812][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:814][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:814][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:814][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:816][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:817][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.16:817][897]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2024.12.16-21.38.17:383][897]PIE: Server logged in
+[2024.12.16-21.38.17:385][897]PIE: Play in editor total start time 1.483 seconds.
+[2024.12.16-21.38.22:340][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-21.38.22:340][977]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.16-21.38.22:340][977]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-21.38.22:343][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-21.38.22:343][977]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.16-21.38.22:343][977]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.16-21.38.22:343][977]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.16-21.38.22:343][977]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.16-21.38.22:379][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.16-21.38.22:393][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-21.38.22:426][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-21.38.22:427][977]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 96
+[2024.12.16-21.38.22:427][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2024.12.16-21.38.22:429][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2024.12.16-21.38.22:440][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.16-21.38.23:819][978]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2024.12.16-21.38.39:799][ 40]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.16-21.38.39:799][ 40]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.12.16-21.39.08:978][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.16-21.39.09:118][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_9376.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:118][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_9375.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:118][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_9377.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:122][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118194.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:122][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118193.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:122][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118195.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:125][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118197.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:125][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118196.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:125][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118198.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:128][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118200.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:128][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118199.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:128][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118201.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:131][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118203.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:131][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118202.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:131][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118204.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:134][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118206.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:134][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118205.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:134][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118207.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:137][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118209.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:137][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118208.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:137][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118210.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:139][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3262.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:139][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3261.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:139][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3263.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:757][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_9388.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:757][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_9387.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:757][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_9389.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:761][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118230.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:761][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118229.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:761][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118231.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:764][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118233.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:764][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118232.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:764][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118234.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:768][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118236.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:768][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118235.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:768][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118237.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:771][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118239.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:771][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118238.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:771][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118240.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:774][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118242.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:774][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118241.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:774][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118243.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:778][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118245.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:778][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118244.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:778][398]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_2118118246.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:780][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3274.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:780][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3273.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:780][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_CrateHolder_C_CHILDACTOR_3275.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.12.16-21.39.09:849][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-21.39.09:900][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.16-21.39.09:957][398]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.16-21.39.09:957][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.16-21.39.09:999][398]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.16-21.39.09:999][398]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BP_ThirdPersonCharacter916078DB4C40A531027355BE1EC66F68.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.16-21.39.10:058][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.758 ms (total: 24.6 sec)
+[2024.12.16-21.39.10:118][398]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.16-21.39.10:118][398]LogContentValidation: Enabled validators:
+[2024.12.16-21.39.10:118][398]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-21.39.10:118][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-21.39.10:118][398]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-21.39.10:118][398]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.16-21.39.10:118][398]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.16-21.39.12:108][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.16-21.39.13:164][448]LogSlate: Window 'Save Content' being destroyed
+[2024.12.16-21.39.13:194][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-21.39.13:311][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.12.16-21.39.13:318][448]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.12.16-21.39.13:318][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/ThirdPersonMap3F57A113489A22373EAC28831F60C00F.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.12.16-21.39.13:336][448]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U6/VGMBNZ40JCAHAZMTHWHBOU
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/80/465EZI9HVABOU7KB4S62HH
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PN/BLPC1ABC1AZKH7KQEN3M9N
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OE/BAQXEIE23TNEUT77VYATEY
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GW/4RZJYI4IFDBEKFB5NYQWG1
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YR/YDC9K9YC26G1YKL9M65HVD
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/XU6YSJTHSG77L4UDLAFUBD
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ET/MJN5CLWEY24CKDJT7UEH0L
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ED/FW0GOBKV1L3YLXIYXFW5V7
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XE/1J9I3YII36L4O8NCP50WQD
+[2024.12.16-21.39.13:336][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-21.39.13:371][448]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_0C9A3C08B6C2813902_2127824393 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/80/465EZI9HVABOU7KB4S62HH.PackageMetaData in its package
+[2024.12.16-21.39.13:373][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.16-21.39.13:398][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.16-21.39.13:424][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.16-21.39.13:429][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U6/VGMBNZ40JCAHAZMTHWHBOU
+[2024.12.16-21.39.13:430][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/VGMBNZ40JCAHAZMTHWHBOU74049AF14B5C6BC5FC334CB1B25F90C8.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U6/VGMBNZ40JCAHAZMTHWHBOU.uasset'
+[2024.12.16-21.39.13:433][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PN/BLPC1ABC1AZKH7KQEN3M9N
+[2024.12.16-21.39.13:433][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BLPC1ABC1AZKH7KQEN3M9N4E2E73DB4A0B9D39974CA6B536CB5CB6.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PN/BLPC1ABC1AZKH7KQEN3M9N.uasset'
+[2024.12.16-21.39.13:436][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OE/BAQXEIE23TNEUT77VYATEY
+[2024.12.16-21.39.13:437][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BAQXEIE23TNEUT77VYATEY40F27EC1450B945F47D714BD64D74974.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OE/BAQXEIE23TNEUT77VYATEY.uasset'
+[2024.12.16-21.39.13:440][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GW/4RZJYI4IFDBEKFB5NYQWG1
+[2024.12.16-21.39.13:440][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/4RZJYI4IFDBEKFB5NYQWG10104C52B45CF4ECCB717B29A7D16BBF1.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GW/4RZJYI4IFDBEKFB5NYQWG1.uasset'
+[2024.12.16-21.39.13:443][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YR/YDC9K9YC26G1YKL9M65HVD
+[2024.12.16-21.39.13:443][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/YDC9K9YC26G1YKL9M65HVD1D7EA0104EFBB84B1B44499C337AB223.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YR/YDC9K9YC26G1YKL9M65HVD.uasset'
+[2024.12.16-21.39.13:446][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/XU6YSJTHSG77L4UDLAFUBD
+[2024.12.16-21.39.13:447][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/XU6YSJTHSG77L4UDLAFUBD24E47E3A4A6BCC5A5FF26ABD92208D56.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/XU6YSJTHSG77L4UDLAFUBD.uasset'
+[2024.12.16-21.39.13:447][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.253 ms (total: 24.7 sec)
+[2024.12.16-21.39.13:448][448]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U6/VGMBNZ40JCAHAZMTHWHBOU
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PN/BLPC1ABC1AZKH7KQEN3M9N
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OE/BAQXEIE23TNEUT77VYATEY
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GW/4RZJYI4IFDBEKFB5NYQWG1
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YR/YDC9K9YC26G1YKL9M65HVD
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/XU6YSJTHSG77L4UDLAFUBD
+[2024.12.16-21.39.13:456][448]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.203
+[2024.12.16-21.39.13:460][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U6/VGMBNZ40JCAHAZMTHWHBOU
+[2024.12.16-21.39.13:460][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/VGMBNZ40JCAHAZMTHWHBOU0DBD46AC4C85E096EC98728A9AD86744.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U6/VGMBNZ40JCAHAZMTHWHBOU.uasset'
+[2024.12.16-21.39.13:463][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GW/4RZJYI4IFDBEKFB5NYQWG1
+[2024.12.16-21.39.13:463][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/4RZJYI4IFDBEKFB5NYQWG176E48BDA407EF0E4F65709B9C97F3F7D.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GW/4RZJYI4IFDBEKFB5NYQWG1.uasset'
+[2024.12.16-21.39.13:466][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/XU6YSJTHSG77L4UDLAFUBD
+[2024.12.16-21.39.13:466][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/XU6YSJTHSG77L4UDLAFUBD850D5DB0439F5031BB8C8592DD4635A9.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/XU6YSJTHSG77L4UDLAFUBD.uasset'
+[2024.12.16-21.39.13:469][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PN/BLPC1ABC1AZKH7KQEN3M9N
+[2024.12.16-21.39.13:470][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BLPC1ABC1AZKH7KQEN3M9N94EB49354D332E4330CEC7984565DACD.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PN/BLPC1ABC1AZKH7KQEN3M9N.uasset'
+[2024.12.16-21.39.13:473][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YR/YDC9K9YC26G1YKL9M65HVD
+[2024.12.16-21.39.13:473][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/YDC9K9YC26G1YKL9M65HVDF0EC30D844C632F0DDE2689450F8C34C.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YR/YDC9K9YC26G1YKL9M65HVD.uasset'
+[2024.12.16-21.39.13:477][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OE/BAQXEIE23TNEUT77VYATEY
+[2024.12.16-21.39.13:477][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/BAQXEIE23TNEUT77VYATEYE8D499B741415B3F06E78E88EBD6247F.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OE/BAQXEIE23TNEUT77VYATEY.uasset'
+[2024.12.16-21.39.13:478][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent] ([2] browsable assets)...
+[2024.12.16-21.39.13:478][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent]
+[2024.12.16-21.39.13:485][448]LogSavePackage: Moving output files for package: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent
+[2024.12.16-21.39.13:485][448]LogSavePackage: Moving '../../../../UE_projects/Deadland_walker/Deadland_walker/Saved/Bp_ZombieSpawnerComponent76A0135A426B0DC4093374A327628086.tmp' to '../../../../UE_projects/Deadland_walker/Deadland_walker/Content/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent.uasset'
+[2024.12.16-21.39.13:544][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 350.516 ms (total: 25.1 sec)
+[2024.12.16-21.39.13:619][448]LogContentValidation: Display: Starting to validate 8 assets
+[2024.12.16-21.39.13:619][448]LogContentValidation: Enabled validators:
+[2024.12.16-21.39.13:619][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-21.39.13:619][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-21.39.13:619][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-21.39.13:620][448]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.12.16-21.39.13:620][448]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2024.12.16-21.39.13:620][448]LogContentValidation: Display: Validating asset /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent.Bp_ZombieSpawnerComponent
+[2024.12.16-21.39.13:620][448]AssetCheck: /Game/Zombie_Mutant/blueprint/Bp_ZombieSpawnerComponent Validating asset
+[2024.12.16-21.39.13:704][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
